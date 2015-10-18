@@ -28,7 +28,23 @@ class UsuarioControllerSpec extends Specification {
     }
 
     def "Prueba apellido"(){
+        when:
+        def usuario = new Usuario(nombre: "Camila", edad: 20, genero: "F", cedula: 1022543545)
+        usuario.apellido = apellido
+        usuario.validate()
 
+        then:
+        usuario.hasErrors() == !valido
+
+        where:
+        apellido   | valido
+        "LD" | false // Minimo son tres caracteres
+        "Odin" | true
+        "123456789012345678901234567890123456789012345678901" | false // No puede exceder los 50 caracteres
+        "Gomez Hernandez" | true
+        "Alonso" | true
+        "Joe" | true
+        "12345678901234567890123456789012345678901234567890" | true
     }
 
     def "Prueba de edad"(){
@@ -68,4 +84,5 @@ class UsuarioControllerSpec extends Specification {
     def "Prueba cedula"(){
 
     }
+
 }
