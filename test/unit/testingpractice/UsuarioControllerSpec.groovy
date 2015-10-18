@@ -21,10 +21,10 @@ class UsuarioControllerSpec extends Specification {
         nombre   | valido
         "LD" | false // Minimo son tres caracteres
         "123456789012345678901234567890123456789012345678901" | false // No puede exceder los 50 caracteres
-        //"Carlos Alfonso" | true
-        //"Carlos" | true
-        //"Joe" | true
-        //"12345678901234567890123456789012345678901234567890" | true
+        "Carlos Alfonso" | true //No aclara si puede contener espacios o no
+        "Carlos" | true
+        "Joe" | true
+        "12345678901234567890123456789012345678901234567890" | true
     }
 
     def "Prueba apellido"(){
@@ -60,7 +60,7 @@ class UsuarioControllerSpec extends Specification {
         edad | valid
         14   | false // Edad menor a 18
         18   | true // Edad mínima permitida
-        //17   | false // Edad menor a 18, (es el limite -1)
+        17   | false // Edad menor a 18, (es el limite -1)
     }
 
 
@@ -75,10 +75,10 @@ class UsuarioControllerSpec extends Specification {
 
         where:
         genero | valid
-        //"M"    | true // M y F son las unicos valores que puede tomar
-        //"K"    | false
+        "M"    | true // M y F son las unicos valores que puede tomar
+        "K"    | false
         "F"    | true
-        //"m"    | false
+        "m"    | false
     }
 
     def "Prueba cedula"(){
