@@ -25,6 +25,7 @@ class UsuarioControllerSpec extends Specification {
         "Carlos" | true
         "Joe" | true
         "12345678901234567890123456789012345678901234567890" | true
+        "" | false
     }
 
     def "Prueba apellido"(){
@@ -45,6 +46,7 @@ class UsuarioControllerSpec extends Specification {
         "Alonso" | true
         "Joe" | true
         "12345678901234567890123456789012345678901234567890" | true
+        ""| false
     }
 
     def "Prueba de edad"(){
@@ -82,7 +84,18 @@ class UsuarioControllerSpec extends Specification {
     }
 
     def "Prueba cedula"(){
+        when:
+        def usuario = new Usuario(nombre: "Nana", apellido: "Torres", edad: 20, genero: "F")
+        usuario.cedula = cedula
+        usuario.validate()
 
+        then:
+        usuario.hasErrors() == !valida
+
+        where:
+        cedula | valida
+        //0 | false
+        234567123 | true
     }
 
 }
