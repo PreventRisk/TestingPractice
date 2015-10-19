@@ -12,8 +12,8 @@ class Curso {
 
     static constraints = {
         codigo unique: true
-        nombre size: 4..47
-        creditos min: 1, max: 8
+        nombre size: 3..50,  nullable: false
+        creditos range: 1..5
         descripcion blank: false, nullable: false, minSize: 10
     }
 }

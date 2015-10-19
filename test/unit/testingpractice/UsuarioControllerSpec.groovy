@@ -61,7 +61,7 @@ class UsuarioControllerSpec extends Specification {
         where:
         edad | valid
         14   | false // Edad menor a 18
-        18   | true // Edad mínima permitida
+        18   | true // Edad mï¿½nima permitida
         17   | false // Edad menor a 18, (es el limite -1)
     }
 
@@ -94,7 +94,7 @@ class UsuarioControllerSpec extends Specification {
 
         where:
         cedula | valida
-        //0 | false
+        0 | false
         234567123 | true
     }
 

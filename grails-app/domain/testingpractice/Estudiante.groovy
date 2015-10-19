@@ -15,7 +15,7 @@ class Estudiante extends Usuario {
     }
 
     static constraints = {
-        semestre min: 1, max: 25
-        codigoInst nullable: false
+        semestre min: 1, max: 20, blank: false
+        codigoInst blank: false, nullable: false
     }
 }

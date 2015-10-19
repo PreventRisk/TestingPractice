@@ -14,7 +14,7 @@ class Usuario {
         apellido size: 3..50, blank: false, nullable: false
         edad min: 18, blank: false
         genero maxSize: 1, validator: { it == "M" || it == "F" }, blank: false, nullable: false
-        cedula unique: true, blank: false
+        cedula unique: true, blank: false, notEqual: (long)0 as long
     }
 
     String toString() {
