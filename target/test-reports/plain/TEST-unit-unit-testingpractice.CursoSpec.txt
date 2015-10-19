@@ -1,0 +1,13 @@
+Testsuite: testingpractice.CursoSpec
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 24,915 sec
+------------- Standard Output ---------------
+--Output from test nombre--
+--Output from test creditos--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test nombre--
+--Output from test creditos--
+------------- ---------------- ---------------
+
+Testcase: test nombre took 24,203 sec
+Testcase: test creditos took 0,269 sec

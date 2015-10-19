@@ -29,12 +29,12 @@ class CursoSpec extends Specification {
         where:
         nombre   | valido
         "LD" | false // Minimo son tres caracteres
-        "123456789012345678901234567890123456789012345678901" | false // No puede exceder los 50 caracteres
+        "1"*51 | false // No puede exceder los 50 caracteres
         //"Nombre Curso" | true //No aclara si puede contener espacios o no
         //"Course" | true
         //"tri" | true
-        //"12345678901234567890123456789012345678901234567890" | true
-        "" | false
+        //"1"*50 | true // Maximo son 50 caracteres
+        null | false
     }
     def "test creditos"(){
         when:

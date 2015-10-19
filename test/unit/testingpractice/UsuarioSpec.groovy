@@ -27,12 +27,12 @@ class UsuarioSpec extends Specification {
         where:
         nombre   | valido
         "LD" | false // Minimo son tres caracteres
-        "123456789012345678901234567890123456789012345678901" | false // No puede exceder los 50 caracteres
+        "1"*51 | false // No puede exceder los 50 caracteres
+        "1"*50 | true
         "Carlos Alfonso" | true //No aclara si puede contener espacios o no
         "Carlos" | true
         "Joe" | true
-        "12345678901234567890123456789012345678901234567890" | true
-        "" | false
+        null | false
     }
 
     def "Prueba apellido"(){
@@ -45,15 +45,15 @@ class UsuarioSpec extends Specification {
         usuario.hasErrors() == !valido
 
         where:
-        apellido   | valido
-        "LD" | false // Minimo son tres caracteres
+        apellido | valido
+        "LD" | false // No puede tener menos de 3 caracteres
         "Odin" | true
-        "123456789012345678901234567890123456789012345678901" | false // No puede exceder los 50 caracteres
+        "h"*51 | false // No puede exceder los 50 caracteres
+        "h"*50 | true // Maximo son 50 caracteres
         "Gomez Hernandez" | true
         "Alonso" | true
-        "Joe" | true
-        "12345678901234567890123456789012345678901234567890" | true
-        ""| false
+        "Joe" | true // Minimo son tres caracteres
+        null | false
     }
 
     def "Prueba de edad"(){
@@ -68,7 +68,7 @@ class UsuarioSpec extends Specification {
         where:
         edad | valid
         14   | false // Edad menor a 18
-        18   | true // Edad m�nima permitida
+        18   | true // Edad minima permitida
         17   | false // Edad menor a 18, (es el limite -1)
     }
 
@@ -88,6 +88,7 @@ class UsuarioSpec extends Specification {
         "K"    | false
         "F"    | true
         "m"    | false
+        "M"*2  | false
     }
 
     def "Prueba cedula"(){

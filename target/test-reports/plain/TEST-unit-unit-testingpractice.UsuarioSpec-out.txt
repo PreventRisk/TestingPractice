@@ -1,0 +1,5 @@
+--Output from Prueba de nombre--
+--Output from Prueba apellido--
+--Output from Prueba de edad--
+--Output from Prueba genero--
+--Output from Prueba cedula--

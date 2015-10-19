@@ -18,7 +18,7 @@ class EstudianteSpec extends Specification {
     void "test something"() {
     }
 
-    def "test semester"(){
+    def "test semestre"(){
         when:
         def student = new Estudiante(codigoInst: 12345)
         student.semestre = semestre
@@ -29,13 +29,11 @@ class EstudianteSpec extends Specification {
 
         where:
         semestre | valid
-        //1|true// semestre entre 1 y 20
-        //20|true // semestre entre 1 y 20
-        -1|false // semestre fuera de 1 y 20
-        0|false // semestre fuera de 1 y 20
-        100|false // semestre fuera de 1 y 20
-
-
+        //1 | true// semestre entre 1 y 20
+        //20 | true // semestre entre 1 y 20
+        -1 | false // semestre fuera de 1 y 20
+        0 | false // semestre fuera de 1 y 20
+        100 | false // semestre fuera de 1 y 20
 
     }
 
@@ -50,11 +48,9 @@ class EstudianteSpec extends Specification {
 
         where:
         codigo | valid
-        " "|false // codigo no blank
-        //null|false // codigo no nulo
-        0|false //
-        //
-
+        " "| false // codigo no blank
+        // null | false // codigo no nulo
+        0 | false //
 
 
     }

@@ -1,0 +1,132 @@
+2015-10-19 09:40:18,904 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test nombre(CursoSpec.groovy:27)
+2015-10-19 09:40:18,959 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test nombre(CursoSpec.groovy:27)
+2015-10-19 09:40:18,964 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test nombre(CursoSpec.groovy:27)
+2015-10-19 09:40:18,965 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test nombre(CursoSpec.groovy:27)
+2015-10-19 09:40:19,238 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test nombre(CursoSpec.groovy:27)
+2015-10-19 09:40:19,238 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test nombre(CursoSpec.groovy:27)
+2015-10-19 09:50:25,737 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test nombre(CursoSpec.groovy:27)
+2015-10-19 09:50:25,871 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test nombre(CursoSpec.groovy:27)
+2015-10-19 09:50:25,884 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test nombre(CursoSpec.groovy:27)
+2015-10-19 09:50:25,885 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test nombre(CursoSpec.groovy:27)
+2015-10-19 09:50:26,171 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test nombre(CursoSpec.groovy:27)
+2015-10-19 09:50:26,172 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test nombre(CursoSpec.groovy:27)
