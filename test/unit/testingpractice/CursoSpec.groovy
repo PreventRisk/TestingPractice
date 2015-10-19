@@ -17,6 +17,7 @@ class CursoSpec extends Specification {
 
     void "test something"() {
     }
+
     def "test nombre"(){
         when:
         def curso = new Curso()
@@ -36,6 +37,7 @@ class CursoSpec extends Specification {
         //"1"*50 | true // Maximo son 50 caracteres
         null | false
     }
+    
     def "test creditos"(){
         when:
         def curso = new Curso()
