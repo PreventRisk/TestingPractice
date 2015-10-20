@@ -424,3 +424,615 @@ curso.hasErrors() == !valido
 testingpractice.Curso : (unsaved)
 
 	at testingpractice.CursoSpec.test descripcion(CursoSpec.groovy:80)
+2015-10-19 22:59:29,738 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@4005e485
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:18)
+2015-10-19 22:59:29,795 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@4005e485
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:18)
+2015-10-19 22:59:29,806 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@4005e485
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:18)
+2015-10-19 22:59:29,810 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@4005e485
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:18)
+2015-10-19 22:59:30,304 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@4005e485
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:18)
+2015-10-19 22:59:30,305 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@4005e485
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:18)
+2015-10-19 23:03:41,531 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@58182b96
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:18)
+2015-10-19 23:03:41,565 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@58182b96
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:18)
+2015-10-19 23:03:41,597 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@58182b96
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:18)
+2015-10-19 23:03:41,598 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@58182b96
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:18)
+2015-10-19 23:03:41,614 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@58182b96
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:18)
+2015-10-19 23:03:41,622 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@58182b96
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:18)
+2015-10-19 23:09:36,448 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@58182b96
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:21)
+2015-10-19 23:09:36,761 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@58182b96
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:21)
+2015-10-19 23:09:36,766 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@58182b96
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:21)
+2015-10-19 23:09:36,766 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@58182b96
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:21)
+2015-10-19 23:09:36,782 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@58182b96
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:21)
+2015-10-19 23:09:36,783 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@58182b96
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:21)
+2015-10-19 23:14:46,017 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@a95cb11
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:21)
+2015-10-19 23:14:46,034 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@a95cb11
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:21)
+2015-10-19 23:14:46,053 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@a95cb11
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:21)
+2015-10-19 23:14:46,058 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@a95cb11
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:21)
+2015-10-19 23:14:46,077 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@a95cb11
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:21)
+2015-10-19 23:14:46,080 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@a95cb11
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:21)
+2015-10-19 23:21:51,118 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@2513155a
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:21)
+2015-10-19 23:21:51,140 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@2513155a
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:21)
+2015-10-19 23:21:51,147 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@2513155a
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:21)
+2015-10-19 23:21:51,148 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@2513155a
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:21)
+2015-10-19 23:21:51,164 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@2513155a
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:21)
+2015-10-19 23:21:51,165 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.UsuarioController@2513155a
+
+	at testingpractice.UsuarioControllerSpec.Numero de iteraciones(UsuarioControllerSpec.groovy:21)
+2015-10-19 23:35:06,144 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.CursoController@7bb4ed71
+
+	at testingpractice.CursoControllerSpec.Prueba de numero de iteraciones(CursoControllerSpec.groovy:20)
+2015-10-19 23:35:06,162 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.CursoController@7bb4ed71
+
+	at testingpractice.CursoControllerSpec.Prueba de numero de iteraciones(CursoControllerSpec.groovy:20)
+2015-10-19 23:35:06,231 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.CursoController@7bb4ed71
+
+	at testingpractice.CursoControllerSpec.Prueba de numero de iteraciones(CursoControllerSpec.groovy:20)
+2015-10-19 23:35:06,242 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.CursoController@7bb4ed71
+
+	at testingpractice.CursoControllerSpec.Prueba de numero de iteraciones(CursoControllerSpec.groovy:20)
+2015-10-19 23:35:06,277 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.CursoController@7bb4ed71
+
+	at testingpractice.CursoControllerSpec.Prueba de numero de iteraciones(CursoControllerSpec.groovy:20)
+2015-10-19 23:35:06,278 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+controller.numeroDeInstancias() == 3
+|          |                    |
+|          0                    false
+testingpractice.CursoController@7bb4ed71
+
+	at testingpractice.CursoControllerSpec.Prueba de numero de iteraciones(CursoControllerSpec.groovy:20)
+2015-10-19 23:51:21,386 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [null]; codes [testingpractice.Curso.profesor.nullable.error.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.error.profesor,testingpractice.Curso.profesor.nullable.error.testingpractice.Profesor,testingpractice.Curso.profesor.nullable.error,curso.profesor.nullable.error.testingpractice.Curso.profesor,curso.profesor.nullable.error.profesor,curso.profesor.nullable.error.testingpractice.Profesor,curso.profesor.nullable.error,testingpractice.Curso.profesor.nullable.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.profesor,testingpractice.Curso.profesor.nullable.testingpractice.Profesor,testingpractice.Curso.profesor.nullable,curso.profesor.nullable.testingpractice.Curso.profesor,curso.profesor.nullable.profesor,curso.profesor.nullable.testingpractice.Profesor,curso.profesor.nullable,nullable.testingpractice.Curso.profesor,nullable.profesor,nullable.testingpractice.Profesor,nullable]; arguments [profesor,class testingpractice.Curso]; default message [Property [{0}] of class [{1}] cannot be null]
+
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrConstructorNewInstance(ReflectiveInterceptor.java:1002)
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at groovy.lang.Closure.call(Closure.java:423)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.CursoControllerSpec.Prueba de numero de iteraciones(CursoControllerSpec.groovy:13)
+2015-10-19 23:51:21,398 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [null]; codes [testingpractice.Curso.profesor.nullable.error.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.error.profesor,testingpractice.Curso.profesor.nullable.error.testingpractice.Profesor,testingpractice.Curso.profesor.nullable.error,curso.profesor.nullable.error.testingpractice.Curso.profesor,curso.profesor.nullable.error.profesor,curso.profesor.nullable.error.testingpractice.Profesor,curso.profesor.nullable.error,testingpractice.Curso.profesor.nullable.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.profesor,testingpractice.Curso.profesor.nullable.testingpractice.Profesor,testingpractice.Curso.profesor.nullable,curso.profesor.nullable.testingpractice.Curso.profesor,curso.profesor.nullable.profesor,curso.profesor.nullable.testingpractice.Profesor,curso.profesor.nullable,nullable.testingpractice.Curso.profesor,nullable.profesor,nullable.testingpractice.Profesor,nullable]; arguments [profesor,class testingpractice.Curso]; default message [Property [{0}] of class [{1}] cannot be null]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.CursoControllerSpec.Prueba de numero de iteraciones(CursoControllerSpec.groovy:13)
+2015-10-19 23:51:21,442 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [null]; codes [testingpractice.Curso.profesor.nullable.error.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.error.profesor,testingpractice.Curso.profesor.nullable.error.testingpractice.Profesor,testingpractice.Curso.profesor.nullable.error,curso.profesor.nullable.error.testingpractice.Curso.profesor,curso.profesor.nullable.error.profesor,curso.profesor.nullable.error.testingpractice.Profesor,curso.profesor.nullable.error,testingpractice.Curso.profesor.nullable.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.profesor,testingpractice.Curso.profesor.nullable.testingpractice.Profesor,testingpractice.Curso.profesor.nullable,curso.profesor.nullable.testingpractice.Curso.profesor,curso.profesor.nullable.profesor,curso.profesor.nullable.testingpractice.Profesor,curso.profesor.nullable,nullable.testingpractice.Curso.profesor,nullable.profesor,nullable.testingpractice.Profesor,nullable]; arguments [profesor,class testingpractice.Curso]; default message [Property [{0}] of class [{1}] cannot be null]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.CursoControllerSpec.Prueba de numero de iteraciones(CursoControllerSpec.groovy:13)
+2015-10-19 23:51:21,443 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [null]; codes [testingpractice.Curso.profesor.nullable.error.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.error.profesor,testingpractice.Curso.profesor.nullable.error.testingpractice.Profesor,testingpractice.Curso.profesor.nullable.error,curso.profesor.nullable.error.testingpractice.Curso.profesor,curso.profesor.nullable.error.profesor,curso.profesor.nullable.error.testingpractice.Profesor,curso.profesor.nullable.error,testingpractice.Curso.profesor.nullable.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.profesor,testingpractice.Curso.profesor.nullable.testingpractice.Profesor,testingpractice.Curso.profesor.nullable,curso.profesor.nullable.testingpractice.Curso.profesor,curso.profesor.nullable.profesor,curso.profesor.nullable.testingpractice.Profesor,curso.profesor.nullable,nullable.testingpractice.Curso.profesor,nullable.profesor,nullable.testingpractice.Profesor,nullable]; arguments [profesor,class testingpractice.Curso]; default message [Property [{0}] of class [{1}] cannot be null]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.CursoControllerSpec.Prueba de numero de iteraciones(CursoControllerSpec.groovy:13)
+2015-10-19 23:51:21,477 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [null]; codes [testingpractice.Curso.profesor.nullable.error.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.error.profesor,testingpractice.Curso.profesor.nullable.error.testingpractice.Profesor,testingpractice.Curso.profesor.nullable.error,curso.profesor.nullable.error.testingpractice.Curso.profesor,curso.profesor.nullable.error.profesor,curso.profesor.nullable.error.testingpractice.Profesor,curso.profesor.nullable.error,testingpractice.Curso.profesor.nullable.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.profesor,testingpractice.Curso.profesor.nullable.testingpractice.Profesor,testingpractice.Curso.profesor.nullable,curso.profesor.nullable.testingpractice.Curso.profesor,curso.profesor.nullable.profesor,curso.profesor.nullable.testingpractice.Profesor,curso.profesor.nullable,nullable.testingpractice.Curso.profesor,nullable.profesor,nullable.testingpractice.Profesor,nullable]; arguments [profesor,class testingpractice.Curso]; default message [Property [{0}] of class [{1}] cannot be null]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.CursoControllerSpec.Prueba de numero de iteraciones(CursoControllerSpec.groovy:13)
+2015-10-19 23:51:21,478 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [null]; codes [testingpractice.Curso.profesor.nullable.error.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.error.profesor,testingpractice.Curso.profesor.nullable.error.testingpractice.Profesor,testingpractice.Curso.profesor.nullable.error,curso.profesor.nullable.error.testingpractice.Curso.profesor,curso.profesor.nullable.error.profesor,curso.profesor.nullable.error.testingpractice.Profesor,curso.profesor.nullable.error,testingpractice.Curso.profesor.nullable.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.profesor,testingpractice.Curso.profesor.nullable.testingpractice.Profesor,testingpractice.Curso.profesor.nullable,curso.profesor.nullable.testingpractice.Curso.profesor,curso.profesor.nullable.profesor,curso.profesor.nullable.testingpractice.Profesor,curso.profesor.nullable,nullable.testingpractice.Curso.profesor,nullable.profesor,nullable.testingpractice.Profesor,nullable]; arguments [profesor,class testingpractice.Curso]; default message [Property [{0}] of class [{1}] cannot be null]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.CursoControllerSpec.Prueba de numero de iteraciones(CursoControllerSpec.groovy:13)
+2015-10-19 23:51:26,584 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Estudiante' on field 'nombre': rejected value [null]; codes [testingpractice.Estudiante.nombre.nullable.error.testingpractice.Estudiante.nombre,testingpractice.Estudiante.nombre.nullable.error.nombre,testingpractice.Estudiante.nombre.nullable.error.java.lang.String,testingpractice.Estudiante.nombre.nullable.error,estudiante.nombre.nullable.error.testingpractice.Estudiante.nombre,estudiante.nombre.nullable.error.nombre,estudiante.nombre.nullable.error.java.lang.String,estudiante.nombre.nullable.error,testingpractice.Estudiante.nombre.nullable.testingpractice.Estudiante.nombre,testingpractice.Estudiante.nombre.nullable.nombre,testingpractice.Estudiante.nombre.nullable.java.lang.String,testingpractice.Estudiante.nombre.nullable,estudiante.nombre.nullable.testingpractice.Estudiante.nombre,estudiante.nombre.nullable.nombre,estudiante.nombre.nullable.java.lang.String,estudiante.nombre.nullable,nullable.testingpractice.Estudiante.nombre,nullable.nombre,nullable.java.lang.String,nullable]; arguments [nombre,class testingpractice.Estudiante]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Estudiante' on field 'apellido': rejected value [null]; codes [testingpractice.Estudiante.apellido.nullable.error.testingpractice.Estudiante.apellido,testingpractice.Estudiante.apellido.nullable.error.apellido,testingpractice.Estudiante.apellido.nullable.error.java.lang.String,testingpractice.Estudiante.apellido.nullable.error,estudiante.apellido.nullable.error.testingpractice.Estudiante.apellido,estudiante.apellido.nullable.error.apellido,estudiante.apellido.nullable.error.java.lang.String,estudiante.apellido.nullable.error,testingpractice.Estudiante.apellido.nullable.testingpractice.Estudiante.apellido,testingpractice.Estudiante.apellido.nullable.apellido,testingpractice.Estudiante.apellido.nullable.java.lang.String,testingpractice.Estudiante.apellido.nullable,estudiante.apellido.nullable.testingpractice.Estudiante.apellido,estudiante.apellido.nullable.apellido,estudiante.apellido.nullable.java.lang.String,estudiante.apellido.nullable,nullable.testingpractice.Estudiante.apellido,nullable.apellido,nullable.java.lang.String,nullable]; arguments [apellido,class testingpractice.Estudiante]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Estudiante' on field 'edad': rejected value [0]; codes [testingpractice.Estudiante.edad.min.error.testingpractice.Estudiante.edad,testingpractice.Estudiante.edad.min.error.edad,testingpractice.Estudiante.edad.min.error.int,testingpractice.Estudiante.edad.min.error,estudiante.edad.min.error.testingpractice.Estudiante.edad,estudiante.edad.min.error.edad,estudiante.edad.min.error.int,estudiante.edad.min.error,testingpractice.Estudiante.edad.min.notmet.testingpractice.Estudiante.edad,testingpractice.Estudiante.edad.min.notmet.edad,testingpractice.Estudiante.edad.min.notmet.int,testingpractice.Estudiante.edad.min.notmet,estudiante.edad.min.notmet.testingpractice.Estudiante.edad,estudiante.edad.min.notmet.edad,estudiante.edad.min.notmet.int,estudiante.edad.min.notmet,min.notmet.testingpractice.Estudiante.edad,min.notmet.edad,min.notmet.int,min.notmet]; arguments [edad,class testingpractice.Estudiante,0,18]; default message [Property [{0}] of class [{1}] with value [{2}] is less than minimum value [{3}]]
+- Field error in object 'testingpractice.Estudiante' on field 'genero': rejected value [null]; codes [testingpractice.Estudiante.genero.nullable.error.testingpractice.Estudiante.genero,testingpractice.Estudiante.genero.nullable.error.genero,testingpractice.Estudiante.genero.nullable.error.java.lang.String,testingpractice.Estudiante.genero.nullable.error,estudiante.genero.nullable.error.testingpractice.Estudiante.genero,estudiante.genero.nullable.error.genero,estudiante.genero.nullable.error.java.lang.String,estudiante.genero.nullable.error,testingpractice.Estudiante.genero.nullable.testingpractice.Estudiante.genero,testingpractice.Estudiante.genero.nullable.genero,testingpractice.Estudiante.genero.nullable.java.lang.String,testingpractice.Estudiante.genero.nullable,estudiante.genero.nullable.testingpractice.Estudiante.genero,estudiante.genero.nullable.genero,estudiante.genero.nullable.java.lang.String,estudiante.genero.nullable,nullable.testingpractice.Estudiante.genero,nullable.genero,nullable.java.lang.String,nullable]; arguments [genero,class testingpractice.Estudiante]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Estudiante' on field 'cedula': rejected value [0]; codes [testingpractice.Estudiante.cedula.notEqual.error.testingpractice.Estudiante.cedula,testingpractice.Estudiante.cedula.notEqual.error.cedula,testingpractice.Estudiante.cedula.notEqual.error.long,testingpractice.Estudiante.cedula.notEqual.error,estudiante.cedula.notEqual.error.testingpractice.Estudiante.cedula,estudiante.cedula.notEqual.error.cedula,estudiante.cedula.notEqual.error.long,estudiante.cedula.notEqual.error,testingpractice.Estudiante.cedula.notEqual.testingpractice.Estudiante.cedula,testingpractice.Estudiante.cedula.notEqual.cedula,testingpractice.Estudiante.cedula.notEqual.long,testingpractice.Estudiante.cedula.notEqual,estudiante.cedula.notEqual.testingpractice.Estudiante.cedula,estudiante.cedula.notEqual.cedula,estudiante.cedula.notEqual.long,estudiante.cedula.notEqual,notEqual.testingpractice.Estudiante.cedula,notEqual.cedula,notEqual.long,notEqual]; arguments [cedula,class testingpractice.Estudiante,0,0]; default message [Property [{0}] of class [{1}] with value [{2}] cannot equal [{3}]]
+- Field error in object 'testingpractice.Estudiante' on field 'semestre': rejected value [0]; codes [testingpractice.Estudiante.semestre.min.error.testingpractice.Estudiante.semestre,testingpractice.Estudiante.semestre.min.error.semestre,testingpractice.Estudiante.semestre.min.error.int,testingpractice.Estudiante.semestre.min.error,estudiante.semestre.min.error.testingpractice.Estudiante.semestre,estudiante.semestre.min.error.semestre,estudiante.semestre.min.error.int,estudiante.semestre.min.error,testingpractice.Estudiante.semestre.min.notmet.testingpractice.Estudiante.semestre,testingpractice.Estudiante.semestre.min.notmet.semestre,testingpractice.Estudiante.semestre.min.notmet.int,testingpractice.Estudiante.semestre.min.notmet,estudiante.semestre.min.notmet.testingpractice.Estudiante.semestre,estudiante.semestre.min.notmet.semestre,estudiante.semestre.min.notmet.int,estudiante.semestre.min.notmet,min.notmet.testingpractice.Estudiante.semestre,min.notmet.semestre,min.notmet.int,min.notmet]; arguments [semestre,class testingpractice.Estudiante,0,1]; default message [Property [{0}] of class [{1}] with value [{2}] is less than minimum value [{3}]]
+
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrConstructorNewInstance(ReflectiveInterceptor.java:1002)
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at groovy.lang.Closure.call(Closure.java:423)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.EstudianteControllerSpec.Prueba de numero de iteraciones(EstudianteControllerSpec.groovy:15)
+2015-10-19 23:51:26,593 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Estudiante' on field 'nombre': rejected value [null]; codes [testingpractice.Estudiante.nombre.nullable.error.testingpractice.Estudiante.nombre,testingpractice.Estudiante.nombre.nullable.error.nombre,testingpractice.Estudiante.nombre.nullable.error.java.lang.String,testingpractice.Estudiante.nombre.nullable.error,estudiante.nombre.nullable.error.testingpractice.Estudiante.nombre,estudiante.nombre.nullable.error.nombre,estudiante.nombre.nullable.error.java.lang.String,estudiante.nombre.nullable.error,testingpractice.Estudiante.nombre.nullable.testingpractice.Estudiante.nombre,testingpractice.Estudiante.nombre.nullable.nombre,testingpractice.Estudiante.nombre.nullable.java.lang.String,testingpractice.Estudiante.nombre.nullable,estudiante.nombre.nullable.testingpractice.Estudiante.nombre,estudiante.nombre.nullable.nombre,estudiante.nombre.nullable.java.lang.String,estudiante.nombre.nullable,nullable.testingpractice.Estudiante.nombre,nullable.nombre,nullable.java.lang.String,nullable]; arguments [nombre,class testingpractice.Estudiante]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Estudiante' on field 'apellido': rejected value [null]; codes [testingpractice.Estudiante.apellido.nullable.error.testingpractice.Estudiante.apellido,testingpractice.Estudiante.apellido.nullable.error.apellido,testingpractice.Estudiante.apellido.nullable.error.java.lang.String,testingpractice.Estudiante.apellido.nullable.error,estudiante.apellido.nullable.error.testingpractice.Estudiante.apellido,estudiante.apellido.nullable.error.apellido,estudiante.apellido.nullable.error.java.lang.String,estudiante.apellido.nullable.error,testingpractice.Estudiante.apellido.nullable.testingpractice.Estudiante.apellido,testingpractice.Estudiante.apellido.nullable.apellido,testingpractice.Estudiante.apellido.nullable.java.lang.String,testingpractice.Estudiante.apellido.nullable,estudiante.apellido.nullable.testingpractice.Estudiante.apellido,estudiante.apellido.nullable.apellido,estudiante.apellido.nullable.java.lang.String,estudiante.apellido.nullable,nullable.testingpractice.Estudiante.apellido,nullable.apellido,nullable.java.lang.String,nullable]; arguments [apellido,class testingpractice.Estudiante]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Estudiante' on field 'edad': rejected value [0]; codes [testingpractice.Estudiante.edad.min.error.testingpractice.Estudiante.edad,testingpractice.Estudiante.edad.min.error.edad,testingpractice.Estudiante.edad.min.error.int,testingpractice.Estudiante.edad.min.error,estudiante.edad.min.error.testingpractice.Estudiante.edad,estudiante.edad.min.error.edad,estudiante.edad.min.error.int,estudiante.edad.min.error,testingpractice.Estudiante.edad.min.notmet.testingpractice.Estudiante.edad,testingpractice.Estudiante.edad.min.notmet.edad,testingpractice.Estudiante.edad.min.notmet.int,testingpractice.Estudiante.edad.min.notmet,estudiante.edad.min.notmet.testingpractice.Estudiante.edad,estudiante.edad.min.notmet.edad,estudiante.edad.min.notmet.int,estudiante.edad.min.notmet,min.notmet.testingpractice.Estudiante.edad,min.notmet.edad,min.notmet.int,min.notmet]; arguments [edad,class testingpractice.Estudiante,0,18]; default message [Property [{0}] of class [{1}] with value [{2}] is less than minimum value [{3}]]
+- Field error in object 'testingpractice.Estudiante' on field 'genero': rejected value [null]; codes [testingpractice.Estudiante.genero.nullable.error.testingpractice.Estudiante.genero,testingpractice.Estudiante.genero.nullable.error.genero,testingpractice.Estudiante.genero.nullable.error.java.lang.String,testingpractice.Estudiante.genero.nullable.error,estudiante.genero.nullable.error.testingpractice.Estudiante.genero,estudiante.genero.nullable.error.genero,estudiante.genero.nullable.error.java.lang.String,estudiante.genero.nullable.error,testingpractice.Estudiante.genero.nullable.testingpractice.Estudiante.genero,testingpractice.Estudiante.genero.nullable.genero,testingpractice.Estudiante.genero.nullable.java.lang.String,testingpractice.Estudiante.genero.nullable,estudiante.genero.nullable.testingpractice.Estudiante.genero,estudiante.genero.nullable.genero,estudiante.genero.nullable.java.lang.String,estudiante.genero.nullable,nullable.testingpractice.Estudiante.genero,nullable.genero,nullable.java.lang.String,nullable]; arguments [genero,class testingpractice.Estudiante]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Estudiante' on field 'cedula': rejected value [0]; codes [testingpractice.Estudiante.cedula.notEqual.error.testingpractice.Estudiante.cedula,testingpractice.Estudiante.cedula.notEqual.error.cedula,testingpractice.Estudiante.cedula.notEqual.error.long,testingpractice.Estudiante.cedula.notEqual.error,estudiante.cedula.notEqual.error.testingpractice.Estudiante.cedula,estudiante.cedula.notEqual.error.cedula,estudiante.cedula.notEqual.error.long,estudiante.cedula.notEqual.error,testingpractice.Estudiante.cedula.notEqual.testingpractice.Estudiante.cedula,testingpractice.Estudiante.cedula.notEqual.cedula,testingpractice.Estudiante.cedula.notEqual.long,testingpractice.Estudiante.cedula.notEqual,estudiante.cedula.notEqual.testingpractice.Estudiante.cedula,estudiante.cedula.notEqual.cedula,estudiante.cedula.notEqual.long,estudiante.cedula.notEqual,notEqual.testingpractice.Estudiante.cedula,notEqual.cedula,notEqual.long,notEqual]; arguments [cedula,class testingpractice.Estudiante,0,0]; default message [Property [{0}] of class [{1}] with value [{2}] cannot equal [{3}]]
+- Field error in object 'testingpractice.Estudiante' on field 'semestre': rejected value [0]; codes [testingpractice.Estudiante.semestre.min.error.testingpractice.Estudiante.semestre,testingpractice.Estudiante.semestre.min.error.semestre,testingpractice.Estudiante.semestre.min.error.int,testingpractice.Estudiante.semestre.min.error,estudiante.semestre.min.error.testingpractice.Estudiante.semestre,estudiante.semestre.min.error.semestre,estudiante.semestre.min.error.int,estudiante.semestre.min.error,testingpractice.Estudiante.semestre.min.notmet.testingpractice.Estudiante.semestre,testingpractice.Estudiante.semestre.min.notmet.semestre,testingpractice.Estudiante.semestre.min.notmet.int,testingpractice.Estudiante.semestre.min.notmet,estudiante.semestre.min.notmet.testingpractice.Estudiante.semestre,estudiante.semestre.min.notmet.semestre,estudiante.semestre.min.notmet.int,estudiante.semestre.min.notmet,min.notmet.testingpractice.Estudiante.semestre,min.notmet.semestre,min.notmet.int,min.notmet]; arguments [semestre,class testingpractice.Estudiante,0,1]; default message [Property [{0}] of class [{1}] with value [{2}] is less than minimum value [{3}]]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.EstudianteControllerSpec.Prueba de numero de iteraciones(EstudianteControllerSpec.groovy:15)
+2015-10-19 23:51:26,702 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Estudiante' on field 'nombre': rejected value [null]; codes [testingpractice.Estudiante.nombre.nullable.error.testingpractice.Estudiante.nombre,testingpractice.Estudiante.nombre.nullable.error.nombre,testingpractice.Estudiante.nombre.nullable.error.java.lang.String,testingpractice.Estudiante.nombre.nullable.error,estudiante.nombre.nullable.error.testingpractice.Estudiante.nombre,estudiante.nombre.nullable.error.nombre,estudiante.nombre.nullable.error.java.lang.String,estudiante.nombre.nullable.error,testingpractice.Estudiante.nombre.nullable.testingpractice.Estudiante.nombre,testingpractice.Estudiante.nombre.nullable.nombre,testingpractice.Estudiante.nombre.nullable.java.lang.String,testingpractice.Estudiante.nombre.nullable,estudiante.nombre.nullable.testingpractice.Estudiante.nombre,estudiante.nombre.nullable.nombre,estudiante.nombre.nullable.java.lang.String,estudiante.nombre.nullable,nullable.testingpractice.Estudiante.nombre,nullable.nombre,nullable.java.lang.String,nullable]; arguments [nombre,class testingpractice.Estudiante]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Estudiante' on field 'apellido': rejected value [null]; codes [testingpractice.Estudiante.apellido.nullable.error.testingpractice.Estudiante.apellido,testingpractice.Estudiante.apellido.nullable.error.apellido,testingpractice.Estudiante.apellido.nullable.error.java.lang.String,testingpractice.Estudiante.apellido.nullable.error,estudiante.apellido.nullable.error.testingpractice.Estudiante.apellido,estudiante.apellido.nullable.error.apellido,estudiante.apellido.nullable.error.java.lang.String,estudiante.apellido.nullable.error,testingpractice.Estudiante.apellido.nullable.testingpractice.Estudiante.apellido,testingpractice.Estudiante.apellido.nullable.apellido,testingpractice.Estudiante.apellido.nullable.java.lang.String,testingpractice.Estudiante.apellido.nullable,estudiante.apellido.nullable.testingpractice.Estudiante.apellido,estudiante.apellido.nullable.apellido,estudiante.apellido.nullable.java.lang.String,estudiante.apellido.nullable,nullable.testingpractice.Estudiante.apellido,nullable.apellido,nullable.java.lang.String,nullable]; arguments [apellido,class testingpractice.Estudiante]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Estudiante' on field 'edad': rejected value [0]; codes [testingpractice.Estudiante.edad.min.error.testingpractice.Estudiante.edad,testingpractice.Estudiante.edad.min.error.edad,testingpractice.Estudiante.edad.min.error.int,testingpractice.Estudiante.edad.min.error,estudiante.edad.min.error.testingpractice.Estudiante.edad,estudiante.edad.min.error.edad,estudiante.edad.min.error.int,estudiante.edad.min.error,testingpractice.Estudiante.edad.min.notmet.testingpractice.Estudiante.edad,testingpractice.Estudiante.edad.min.notmet.edad,testingpractice.Estudiante.edad.min.notmet.int,testingpractice.Estudiante.edad.min.notmet,estudiante.edad.min.notmet.testingpractice.Estudiante.edad,estudiante.edad.min.notmet.edad,estudiante.edad.min.notmet.int,estudiante.edad.min.notmet,min.notmet.testingpractice.Estudiante.edad,min.notmet.edad,min.notmet.int,min.notmet]; arguments [edad,class testingpractice.Estudiante,0,18]; default message [Property [{0}] of class [{1}] with value [{2}] is less than minimum value [{3}]]
+- Field error in object 'testingpractice.Estudiante' on field 'genero': rejected value [null]; codes [testingpractice.Estudiante.genero.nullable.error.testingpractice.Estudiante.genero,testingpractice.Estudiante.genero.nullable.error.genero,testingpractice.Estudiante.genero.nullable.error.java.lang.String,testingpractice.Estudiante.genero.nullable.error,estudiante.genero.nullable.error.testingpractice.Estudiante.genero,estudiante.genero.nullable.error.genero,estudiante.genero.nullable.error.java.lang.String,estudiante.genero.nullable.error,testingpractice.Estudiante.genero.nullable.testingpractice.Estudiante.genero,testingpractice.Estudiante.genero.nullable.genero,testingpractice.Estudiante.genero.nullable.java.lang.String,testingpractice.Estudiante.genero.nullable,estudiante.genero.nullable.testingpractice.Estudiante.genero,estudiante.genero.nullable.genero,estudiante.genero.nullable.java.lang.String,estudiante.genero.nullable,nullable.testingpractice.Estudiante.genero,nullable.genero,nullable.java.lang.String,nullable]; arguments [genero,class testingpractice.Estudiante]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Estudiante' on field 'cedula': rejected value [0]; codes [testingpractice.Estudiante.cedula.notEqual.error.testingpractice.Estudiante.cedula,testingpractice.Estudiante.cedula.notEqual.error.cedula,testingpractice.Estudiante.cedula.notEqual.error.long,testingpractice.Estudiante.cedula.notEqual.error,estudiante.cedula.notEqual.error.testingpractice.Estudiante.cedula,estudiante.cedula.notEqual.error.cedula,estudiante.cedula.notEqual.error.long,estudiante.cedula.notEqual.error,testingpractice.Estudiante.cedula.notEqual.testingpractice.Estudiante.cedula,testingpractice.Estudiante.cedula.notEqual.cedula,testingpractice.Estudiante.cedula.notEqual.long,testingpractice.Estudiante.cedula.notEqual,estudiante.cedula.notEqual.testingpractice.Estudiante.cedula,estudiante.cedula.notEqual.cedula,estudiante.cedula.notEqual.long,estudiante.cedula.notEqual,notEqual.testingpractice.Estudiante.cedula,notEqual.cedula,notEqual.long,notEqual]; arguments [cedula,class testingpractice.Estudiante,0,0]; default message [Property [{0}] of class [{1}] with value [{2}] cannot equal [{3}]]
+- Field error in object 'testingpractice.Estudiante' on field 'semestre': rejected value [0]; codes [testingpractice.Estudiante.semestre.min.error.testingpractice.Estudiante.semestre,testingpractice.Estudiante.semestre.min.error.semestre,testingpractice.Estudiante.semestre.min.error.int,testingpractice.Estudiante.semestre.min.error,estudiante.semestre.min.error.testingpractice.Estudiante.semestre,estudiante.semestre.min.error.semestre,estudiante.semestre.min.error.int,estudiante.semestre.min.error,testingpractice.Estudiante.semestre.min.notmet.testingpractice.Estudiante.semestre,testingpractice.Estudiante.semestre.min.notmet.semestre,testingpractice.Estudiante.semestre.min.notmet.int,testingpractice.Estudiante.semestre.min.notmet,estudiante.semestre.min.notmet.testingpractice.Estudiante.semestre,estudiante.semestre.min.notmet.semestre,estudiante.semestre.min.notmet.int,estudiante.semestre.min.notmet,min.notmet.testingpractice.Estudiante.semestre,min.notmet.semestre,min.notmet.int,min.notmet]; arguments [semestre,class testingpractice.Estudiante,0,1]; default message [Property [{0}] of class [{1}] with value [{2}] is less than minimum value [{3}]]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.EstudianteControllerSpec.Prueba de numero de iteraciones(EstudianteControllerSpec.groovy:15)
+2015-10-19 23:51:26,703 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Estudiante' on field 'nombre': rejected value [null]; codes [testingpractice.Estudiante.nombre.nullable.error.testingpractice.Estudiante.nombre,testingpractice.Estudiante.nombre.nullable.error.nombre,testingpractice.Estudiante.nombre.nullable.error.java.lang.String,testingpractice.Estudiante.nombre.nullable.error,estudiante.nombre.nullable.error.testingpractice.Estudiante.nombre,estudiante.nombre.nullable.error.nombre,estudiante.nombre.nullable.error.java.lang.String,estudiante.nombre.nullable.error,testingpractice.Estudiante.nombre.nullable.testingpractice.Estudiante.nombre,testingpractice.Estudiante.nombre.nullable.nombre,testingpractice.Estudiante.nombre.nullable.java.lang.String,testingpractice.Estudiante.nombre.nullable,estudiante.nombre.nullable.testingpractice.Estudiante.nombre,estudiante.nombre.nullable.nombre,estudiante.nombre.nullable.java.lang.String,estudiante.nombre.nullable,nullable.testingpractice.Estudiante.nombre,nullable.nombre,nullable.java.lang.String,nullable]; arguments [nombre,class testingpractice.Estudiante]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Estudiante' on field 'apellido': rejected value [null]; codes [testingpractice.Estudiante.apellido.nullable.error.testingpractice.Estudiante.apellido,testingpractice.Estudiante.apellido.nullable.error.apellido,testingpractice.Estudiante.apellido.nullable.error.java.lang.String,testingpractice.Estudiante.apellido.nullable.error,estudiante.apellido.nullable.error.testingpractice.Estudiante.apellido,estudiante.apellido.nullable.error.apellido,estudiante.apellido.nullable.error.java.lang.String,estudiante.apellido.nullable.error,testingpractice.Estudiante.apellido.nullable.testingpractice.Estudiante.apellido,testingpractice.Estudiante.apellido.nullable.apellido,testingpractice.Estudiante.apellido.nullable.java.lang.String,testingpractice.Estudiante.apellido.nullable,estudiante.apellido.nullable.testingpractice.Estudiante.apellido,estudiante.apellido.nullable.apellido,estudiante.apellido.nullable.java.lang.String,estudiante.apellido.nullable,nullable.testingpractice.Estudiante.apellido,nullable.apellido,nullable.java.lang.String,nullable]; arguments [apellido,class testingpractice.Estudiante]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Estudiante' on field 'edad': rejected value [0]; codes [testingpractice.Estudiante.edad.min.error.testingpractice.Estudiante.edad,testingpractice.Estudiante.edad.min.error.edad,testingpractice.Estudiante.edad.min.error.int,testingpractice.Estudiante.edad.min.error,estudiante.edad.min.error.testingpractice.Estudiante.edad,estudiante.edad.min.error.edad,estudiante.edad.min.error.int,estudiante.edad.min.error,testingpractice.Estudiante.edad.min.notmet.testingpractice.Estudiante.edad,testingpractice.Estudiante.edad.min.notmet.edad,testingpractice.Estudiante.edad.min.notmet.int,testingpractice.Estudiante.edad.min.notmet,estudiante.edad.min.notmet.testingpractice.Estudiante.edad,estudiante.edad.min.notmet.edad,estudiante.edad.min.notmet.int,estudiante.edad.min.notmet,min.notmet.testingpractice.Estudiante.edad,min.notmet.edad,min.notmet.int,min.notmet]; arguments [edad,class testingpractice.Estudiante,0,18]; default message [Property [{0}] of class [{1}] with value [{2}] is less than minimum value [{3}]]
+- Field error in object 'testingpractice.Estudiante' on field 'genero': rejected value [null]; codes [testingpractice.Estudiante.genero.nullable.error.testingpractice.Estudiante.genero,testingpractice.Estudiante.genero.nullable.error.genero,testingpractice.Estudiante.genero.nullable.error.java.lang.String,testingpractice.Estudiante.genero.nullable.error,estudiante.genero.nullable.error.testingpractice.Estudiante.genero,estudiante.genero.nullable.error.genero,estudiante.genero.nullable.error.java.lang.String,estudiante.genero.nullable.error,testingpractice.Estudiante.genero.nullable.testingpractice.Estudiante.genero,testingpractice.Estudiante.genero.nullable.genero,testingpractice.Estudiante.genero.nullable.java.lang.String,testingpractice.Estudiante.genero.nullable,estudiante.genero.nullable.testingpractice.Estudiante.genero,estudiante.genero.nullable.genero,estudiante.genero.nullable.java.lang.String,estudiante.genero.nullable,nullable.testingpractice.Estudiante.genero,nullable.genero,nullable.java.lang.String,nullable]; arguments [genero,class testingpractice.Estudiante]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Estudiante' on field 'cedula': rejected value [0]; codes [testingpractice.Estudiante.cedula.notEqual.error.testingpractice.Estudiante.cedula,testingpractice.Estudiante.cedula.notEqual.error.cedula,testingpractice.Estudiante.cedula.notEqual.error.long,testingpractice.Estudiante.cedula.notEqual.error,estudiante.cedula.notEqual.error.testingpractice.Estudiante.cedula,estudiante.cedula.notEqual.error.cedula,estudiante.cedula.notEqual.error.long,estudiante.cedula.notEqual.error,testingpractice.Estudiante.cedula.notEqual.testingpractice.Estudiante.cedula,testingpractice.Estudiante.cedula.notEqual.cedula,testingpractice.Estudiante.cedula.notEqual.long,testingpractice.Estudiante.cedula.notEqual,estudiante.cedula.notEqual.testingpractice.Estudiante.cedula,estudiante.cedula.notEqual.cedula,estudiante.cedula.notEqual.long,estudiante.cedula.notEqual,notEqual.testingpractice.Estudiante.cedula,notEqual.cedula,notEqual.long,notEqual]; arguments [cedula,class testingpractice.Estudiante,0,0]; default message [Property [{0}] of class [{1}] with value [{2}] cannot equal [{3}]]
+- Field error in object 'testingpractice.Estudiante' on field 'semestre': rejected value [0]; codes [testingpractice.Estudiante.semestre.min.error.testingpractice.Estudiante.semestre,testingpractice.Estudiante.semestre.min.error.semestre,testingpractice.Estudiante.semestre.min.error.int,testingpractice.Estudiante.semestre.min.error,estudiante.semestre.min.error.testingpractice.Estudiante.semestre,estudiante.semestre.min.error.semestre,estudiante.semestre.min.error.int,estudiante.semestre.min.error,testingpractice.Estudiante.semestre.min.notmet.testingpractice.Estudiante.semestre,testingpractice.Estudiante.semestre.min.notmet.semestre,testingpractice.Estudiante.semestre.min.notmet.int,testingpractice.Estudiante.semestre.min.notmet,estudiante.semestre.min.notmet.testingpractice.Estudiante.semestre,estudiante.semestre.min.notmet.semestre,estudiante.semestre.min.notmet.int,estudiante.semestre.min.notmet,min.notmet.testingpractice.Estudiante.semestre,min.notmet.semestre,min.notmet.int,min.notmet]; arguments [semestre,class testingpractice.Estudiante,0,1]; default message [Property [{0}] of class [{1}] with value [{2}] is less than minimum value [{3}]]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.EstudianteControllerSpec.Prueba de numero de iteraciones(EstudianteControllerSpec.groovy:15)
+2015-10-19 23:51:26,706 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Estudiante' on field 'nombre': rejected value [null]; codes [testingpractice.Estudiante.nombre.nullable.error.testingpractice.Estudiante.nombre,testingpractice.Estudiante.nombre.nullable.error.nombre,testingpractice.Estudiante.nombre.nullable.error.java.lang.String,testingpractice.Estudiante.nombre.nullable.error,estudiante.nombre.nullable.error.testingpractice.Estudiante.nombre,estudiante.nombre.nullable.error.nombre,estudiante.nombre.nullable.error.java.lang.String,estudiante.nombre.nullable.error,testingpractice.Estudiante.nombre.nullable.testingpractice.Estudiante.nombre,testingpractice.Estudiante.nombre.nullable.nombre,testingpractice.Estudiante.nombre.nullable.java.lang.String,testingpractice.Estudiante.nombre.nullable,estudiante.nombre.nullable.testingpractice.Estudiante.nombre,estudiante.nombre.nullable.nombre,estudiante.nombre.nullable.java.lang.String,estudiante.nombre.nullable,nullable.testingpractice.Estudiante.nombre,nullable.nombre,nullable.java.lang.String,nullable]; arguments [nombre,class testingpractice.Estudiante]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Estudiante' on field 'apellido': rejected value [null]; codes [testingpractice.Estudiante.apellido.nullable.error.testingpractice.Estudiante.apellido,testingpractice.Estudiante.apellido.nullable.error.apellido,testingpractice.Estudiante.apellido.nullable.error.java.lang.String,testingpractice.Estudiante.apellido.nullable.error,estudiante.apellido.nullable.error.testingpractice.Estudiante.apellido,estudiante.apellido.nullable.error.apellido,estudiante.apellido.nullable.error.java.lang.String,estudiante.apellido.nullable.error,testingpractice.Estudiante.apellido.nullable.testingpractice.Estudiante.apellido,testingpractice.Estudiante.apellido.nullable.apellido,testingpractice.Estudiante.apellido.nullable.java.lang.String,testingpractice.Estudiante.apellido.nullable,estudiante.apellido.nullable.testingpractice.Estudiante.apellido,estudiante.apellido.nullable.apellido,estudiante.apellido.nullable.java.lang.String,estudiante.apellido.nullable,nullable.testingpractice.Estudiante.apellido,nullable.apellido,nullable.java.lang.String,nullable]; arguments [apellido,class testingpractice.Estudiante]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Estudiante' on field 'edad': rejected value [0]; codes [testingpractice.Estudiante.edad.min.error.testingpractice.Estudiante.edad,testingpractice.Estudiante.edad.min.error.edad,testingpractice.Estudiante.edad.min.error.int,testingpractice.Estudiante.edad.min.error,estudiante.edad.min.error.testingpractice.Estudiante.edad,estudiante.edad.min.error.edad,estudiante.edad.min.error.int,estudiante.edad.min.error,testingpractice.Estudiante.edad.min.notmet.testingpractice.Estudiante.edad,testingpractice.Estudiante.edad.min.notmet.edad,testingpractice.Estudiante.edad.min.notmet.int,testingpractice.Estudiante.edad.min.notmet,estudiante.edad.min.notmet.testingpractice.Estudiante.edad,estudiante.edad.min.notmet.edad,estudiante.edad.min.notmet.int,estudiante.edad.min.notmet,min.notmet.testingpractice.Estudiante.edad,min.notmet.edad,min.notmet.int,min.notmet]; arguments [edad,class testingpractice.Estudiante,0,18]; default message [Property [{0}] of class [{1}] with value [{2}] is less than minimum value [{3}]]
+- Field error in object 'testingpractice.Estudiante' on field 'genero': rejected value [null]; codes [testingpractice.Estudiante.genero.nullable.error.testingpractice.Estudiante.genero,testingpractice.Estudiante.genero.nullable.error.genero,testingpractice.Estudiante.genero.nullable.error.java.lang.String,testingpractice.Estudiante.genero.nullable.error,estudiante.genero.nullable.error.testingpractice.Estudiante.genero,estudiante.genero.nullable.error.genero,estudiante.genero.nullable.error.java.lang.String,estudiante.genero.nullable.error,testingpractice.Estudiante.genero.nullable.testingpractice.Estudiante.genero,testingpractice.Estudiante.genero.nullable.genero,testingpractice.Estudiante.genero.nullable.java.lang.String,testingpractice.Estudiante.genero.nullable,estudiante.genero.nullable.testingpractice.Estudiante.genero,estudiante.genero.nullable.genero,estudiante.genero.nullable.java.lang.String,estudiante.genero.nullable,nullable.testingpractice.Estudiante.genero,nullable.genero,nullable.java.lang.String,nullable]; arguments [genero,class testingpractice.Estudiante]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Estudiante' on field 'cedula': rejected value [0]; codes [testingpractice.Estudiante.cedula.notEqual.error.testingpractice.Estudiante.cedula,testingpractice.Estudiante.cedula.notEqual.error.cedula,testingpractice.Estudiante.cedula.notEqual.error.long,testingpractice.Estudiante.cedula.notEqual.error,estudiante.cedula.notEqual.error.testingpractice.Estudiante.cedula,estudiante.cedula.notEqual.error.cedula,estudiante.cedula.notEqual.error.long,estudiante.cedula.notEqual.error,testingpractice.Estudiante.cedula.notEqual.testingpractice.Estudiante.cedula,testingpractice.Estudiante.cedula.notEqual.cedula,testingpractice.Estudiante.cedula.notEqual.long,testingpractice.Estudiante.cedula.notEqual,estudiante.cedula.notEqual.testingpractice.Estudiante.cedula,estudiante.cedula.notEqual.cedula,estudiante.cedula.notEqual.long,estudiante.cedula.notEqual,notEqual.testingpractice.Estudiante.cedula,notEqual.cedula,notEqual.long,notEqual]; arguments [cedula,class testingpractice.Estudiante,0,0]; default message [Property [{0}] of class [{1}] with value [{2}] cannot equal [{3}]]
+- Field error in object 'testingpractice.Estudiante' on field 'semestre': rejected value [0]; codes [testingpractice.Estudiante.semestre.min.error.testingpractice.Estudiante.semestre,testingpractice.Estudiante.semestre.min.error.semestre,testingpractice.Estudiante.semestre.min.error.int,testingpractice.Estudiante.semestre.min.error,estudiante.semestre.min.error.testingpractice.Estudiante.semestre,estudiante.semestre.min.error.semestre,estudiante.semestre.min.error.int,estudiante.semestre.min.error,testingpractice.Estudiante.semestre.min.notmet.testingpractice.Estudiante.semestre,testingpractice.Estudiante.semestre.min.notmet.semestre,testingpractice.Estudiante.semestre.min.notmet.int,testingpractice.Estudiante.semestre.min.notmet,estudiante.semestre.min.notmet.testingpractice.Estudiante.semestre,estudiante.semestre.min.notmet.semestre,estudiante.semestre.min.notmet.int,estudiante.semestre.min.notmet,min.notmet.testingpractice.Estudiante.semestre,min.notmet.semestre,min.notmet.int,min.notmet]; arguments [semestre,class testingpractice.Estudiante,0,1]; default message [Property [{0}] of class [{1}] with value [{2}] is less than minimum value [{3}]]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.EstudianteControllerSpec.Prueba de numero de iteraciones(EstudianteControllerSpec.groovy:15)
+2015-10-19 23:51:26,713 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Estudiante' on field 'nombre': rejected value [null]; codes [testingpractice.Estudiante.nombre.nullable.error.testingpractice.Estudiante.nombre,testingpractice.Estudiante.nombre.nullable.error.nombre,testingpractice.Estudiante.nombre.nullable.error.java.lang.String,testingpractice.Estudiante.nombre.nullable.error,estudiante.nombre.nullable.error.testingpractice.Estudiante.nombre,estudiante.nombre.nullable.error.nombre,estudiante.nombre.nullable.error.java.lang.String,estudiante.nombre.nullable.error,testingpractice.Estudiante.nombre.nullable.testingpractice.Estudiante.nombre,testingpractice.Estudiante.nombre.nullable.nombre,testingpractice.Estudiante.nombre.nullable.java.lang.String,testingpractice.Estudiante.nombre.nullable,estudiante.nombre.nullable.testingpractice.Estudiante.nombre,estudiante.nombre.nullable.nombre,estudiante.nombre.nullable.java.lang.String,estudiante.nombre.nullable,nullable.testingpractice.Estudiante.nombre,nullable.nombre,nullable.java.lang.String,nullable]; arguments [nombre,class testingpractice.Estudiante]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Estudiante' on field 'apellido': rejected value [null]; codes [testingpractice.Estudiante.apellido.nullable.error.testingpractice.Estudiante.apellido,testingpractice.Estudiante.apellido.nullable.error.apellido,testingpractice.Estudiante.apellido.nullable.error.java.lang.String,testingpractice.Estudiante.apellido.nullable.error,estudiante.apellido.nullable.error.testingpractice.Estudiante.apellido,estudiante.apellido.nullable.error.apellido,estudiante.apellido.nullable.error.java.lang.String,estudiante.apellido.nullable.error,testingpractice.Estudiante.apellido.nullable.testingpractice.Estudiante.apellido,testingpractice.Estudiante.apellido.nullable.apellido,testingpractice.Estudiante.apellido.nullable.java.lang.String,testingpractice.Estudiante.apellido.nullable,estudiante.apellido.nullable.testingpractice.Estudiante.apellido,estudiante.apellido.nullable.apellido,estudiante.apellido.nullable.java.lang.String,estudiante.apellido.nullable,nullable.testingpractice.Estudiante.apellido,nullable.apellido,nullable.java.lang.String,nullable]; arguments [apellido,class testingpractice.Estudiante]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Estudiante' on field 'edad': rejected value [0]; codes [testingpractice.Estudiante.edad.min.error.testingpractice.Estudiante.edad,testingpractice.Estudiante.edad.min.error.edad,testingpractice.Estudiante.edad.min.error.int,testingpractice.Estudiante.edad.min.error,estudiante.edad.min.error.testingpractice.Estudiante.edad,estudiante.edad.min.error.edad,estudiante.edad.min.error.int,estudiante.edad.min.error,testingpractice.Estudiante.edad.min.notmet.testingpractice.Estudiante.edad,testingpractice.Estudiante.edad.min.notmet.edad,testingpractice.Estudiante.edad.min.notmet.int,testingpractice.Estudiante.edad.min.notmet,estudiante.edad.min.notmet.testingpractice.Estudiante.edad,estudiante.edad.min.notmet.edad,estudiante.edad.min.notmet.int,estudiante.edad.min.notmet,min.notmet.testingpractice.Estudiante.edad,min.notmet.edad,min.notmet.int,min.notmet]; arguments [edad,class testingpractice.Estudiante,0,18]; default message [Property [{0}] of class [{1}] with value [{2}] is less than minimum value [{3}]]
+- Field error in object 'testingpractice.Estudiante' on field 'genero': rejected value [null]; codes [testingpractice.Estudiante.genero.nullable.error.testingpractice.Estudiante.genero,testingpractice.Estudiante.genero.nullable.error.genero,testingpractice.Estudiante.genero.nullable.error.java.lang.String,testingpractice.Estudiante.genero.nullable.error,estudiante.genero.nullable.error.testingpractice.Estudiante.genero,estudiante.genero.nullable.error.genero,estudiante.genero.nullable.error.java.lang.String,estudiante.genero.nullable.error,testingpractice.Estudiante.genero.nullable.testingpractice.Estudiante.genero,testingpractice.Estudiante.genero.nullable.genero,testingpractice.Estudiante.genero.nullable.java.lang.String,testingpractice.Estudiante.genero.nullable,estudiante.genero.nullable.testingpractice.Estudiante.genero,estudiante.genero.nullable.genero,estudiante.genero.nullable.java.lang.String,estudiante.genero.nullable,nullable.testingpractice.Estudiante.genero,nullable.genero,nullable.java.lang.String,nullable]; arguments [genero,class testingpractice.Estudiante]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Estudiante' on field 'cedula': rejected value [0]; codes [testingpractice.Estudiante.cedula.notEqual.error.testingpractice.Estudiante.cedula,testingpractice.Estudiante.cedula.notEqual.error.cedula,testingpractice.Estudiante.cedula.notEqual.error.long,testingpractice.Estudiante.cedula.notEqual.error,estudiante.cedula.notEqual.error.testingpractice.Estudiante.cedula,estudiante.cedula.notEqual.error.cedula,estudiante.cedula.notEqual.error.long,estudiante.cedula.notEqual.error,testingpractice.Estudiante.cedula.notEqual.testingpractice.Estudiante.cedula,testingpractice.Estudiante.cedula.notEqual.cedula,testingpractice.Estudiante.cedula.notEqual.long,testingpractice.Estudiante.cedula.notEqual,estudiante.cedula.notEqual.testingpractice.Estudiante.cedula,estudiante.cedula.notEqual.cedula,estudiante.cedula.notEqual.long,estudiante.cedula.notEqual,notEqual.testingpractice.Estudiante.cedula,notEqual.cedula,notEqual.long,notEqual]; arguments [cedula,class testingpractice.Estudiante,0,0]; default message [Property [{0}] of class [{1}] with value [{2}] cannot equal [{3}]]
+- Field error in object 'testingpractice.Estudiante' on field 'semestre': rejected value [0]; codes [testingpractice.Estudiante.semestre.min.error.testingpractice.Estudiante.semestre,testingpractice.Estudiante.semestre.min.error.semestre,testingpractice.Estudiante.semestre.min.error.int,testingpractice.Estudiante.semestre.min.error,estudiante.semestre.min.error.testingpractice.Estudiante.semestre,estudiante.semestre.min.error.semestre,estudiante.semestre.min.error.int,estudiante.semestre.min.error,testingpractice.Estudiante.semestre.min.notmet.testingpractice.Estudiante.semestre,testingpractice.Estudiante.semestre.min.notmet.semestre,testingpractice.Estudiante.semestre.min.notmet.int,testingpractice.Estudiante.semestre.min.notmet,estudiante.semestre.min.notmet.testingpractice.Estudiante.semestre,estudiante.semestre.min.notmet.semestre,estudiante.semestre.min.notmet.int,estudiante.semestre.min.notmet,min.notmet.testingpractice.Estudiante.semestre,min.notmet.semestre,min.notmet.int,min.notmet]; arguments [semestre,class testingpractice.Estudiante,0,1]; default message [Property [{0}] of class [{1}] with value [{2}] is less than minimum value [{3}]]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.EstudianteControllerSpec.Prueba de numero de iteraciones(EstudianteControllerSpec.groovy:15)
+2015-10-19 23:56:56,337 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [null]; codes [testingpractice.Curso.profesor.nullable.error.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.error.profesor,testingpractice.Curso.profesor.nullable.error.testingpractice.Profesor,testingpractice.Curso.profesor.nullable.error,curso.profesor.nullable.error.testingpractice.Curso.profesor,curso.profesor.nullable.error.profesor,curso.profesor.nullable.error.testingpractice.Profesor,curso.profesor.nullable.error,testingpractice.Curso.profesor.nullable.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.profesor,testingpractice.Curso.profesor.nullable.testingpractice.Profesor,testingpractice.Curso.profesor.nullable,curso.profesor.nullable.testingpractice.Curso.profesor,curso.profesor.nullable.profesor,curso.profesor.nullable.testingpractice.Profesor,curso.profesor.nullable,nullable.testingpractice.Curso.profesor,nullable.profesor,nullable.testingpractice.Profesor,nullable]; arguments [profesor,class testingpractice.Curso]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [Jairo Aponte]; codes [testingpractice.Curso.profesor.typeMismatch.error,testingpractice.Curso.profesor.typeMismatch,curso.profesor.typeMismatch.error,curso.profesor.typeMismatch,typeMismatch.testingpractice.Curso.profesor,typeMismatch.profesor,typeMismatch.testingpractice.Profesor,typeMismatch]; arguments [profesor]; default message [Could not find matching constructor for: testingpractice.Profesor(java.lang.String)]
+
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrConstructorNewInstance(ReflectiveInterceptor.java:1002)
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at groovy.lang.Closure.call(Closure.java:423)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.CursoControllerSpec.Prueba de numero de iteraciones(CursoControllerSpec.groovy:13)
+2015-10-19 23:56:56,360 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [null]; codes [testingpractice.Curso.profesor.nullable.error.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.error.profesor,testingpractice.Curso.profesor.nullable.error.testingpractice.Profesor,testingpractice.Curso.profesor.nullable.error,curso.profesor.nullable.error.testingpractice.Curso.profesor,curso.profesor.nullable.error.profesor,curso.profesor.nullable.error.testingpractice.Profesor,curso.profesor.nullable.error,testingpractice.Curso.profesor.nullable.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.profesor,testingpractice.Curso.profesor.nullable.testingpractice.Profesor,testingpractice.Curso.profesor.nullable,curso.profesor.nullable.testingpractice.Curso.profesor,curso.profesor.nullable.profesor,curso.profesor.nullable.testingpractice.Profesor,curso.profesor.nullable,nullable.testingpractice.Curso.profesor,nullable.profesor,nullable.testingpractice.Profesor,nullable]; arguments [profesor,class testingpractice.Curso]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [Jairo Aponte]; codes [testingpractice.Curso.profesor.typeMismatch.error,testingpractice.Curso.profesor.typeMismatch,curso.profesor.typeMismatch.error,curso.profesor.typeMismatch,typeMismatch.testingpractice.Curso.profesor,typeMismatch.profesor,typeMismatch.testingpractice.Profesor,typeMismatch]; arguments [profesor]; default message [Could not find matching constructor for: testingpractice.Profesor(java.lang.String)]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.CursoControllerSpec.Prueba de numero de iteraciones(CursoControllerSpec.groovy:13)
+2015-10-19 23:56:56,485 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [null]; codes [testingpractice.Curso.profesor.nullable.error.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.error.profesor,testingpractice.Curso.profesor.nullable.error.testingpractice.Profesor,testingpractice.Curso.profesor.nullable.error,curso.profesor.nullable.error.testingpractice.Curso.profesor,curso.profesor.nullable.error.profesor,curso.profesor.nullable.error.testingpractice.Profesor,curso.profesor.nullable.error,testingpractice.Curso.profesor.nullable.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.profesor,testingpractice.Curso.profesor.nullable.testingpractice.Profesor,testingpractice.Curso.profesor.nullable,curso.profesor.nullable.testingpractice.Curso.profesor,curso.profesor.nullable.profesor,curso.profesor.nullable.testingpractice.Profesor,curso.profesor.nullable,nullable.testingpractice.Curso.profesor,nullable.profesor,nullable.testingpractice.Profesor,nullable]; arguments [profesor,class testingpractice.Curso]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [Jairo Aponte]; codes [testingpractice.Curso.profesor.typeMismatch.error,testingpractice.Curso.profesor.typeMismatch,curso.profesor.typeMismatch.error,curso.profesor.typeMismatch,typeMismatch.testingpractice.Curso.profesor,typeMismatch.profesor,typeMismatch.testingpractice.Profesor,typeMismatch]; arguments [profesor]; default message [Could not find matching constructor for: testingpractice.Profesor(java.lang.String)]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.CursoControllerSpec.Prueba de numero de iteraciones(CursoControllerSpec.groovy:13)
+2015-10-19 23:56:56,487 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [null]; codes [testingpractice.Curso.profesor.nullable.error.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.error.profesor,testingpractice.Curso.profesor.nullable.error.testingpractice.Profesor,testingpractice.Curso.profesor.nullable.error,curso.profesor.nullable.error.testingpractice.Curso.profesor,curso.profesor.nullable.error.profesor,curso.profesor.nullable.error.testingpractice.Profesor,curso.profesor.nullable.error,testingpractice.Curso.profesor.nullable.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.profesor,testingpractice.Curso.profesor.nullable.testingpractice.Profesor,testingpractice.Curso.profesor.nullable,curso.profesor.nullable.testingpractice.Curso.profesor,curso.profesor.nullable.profesor,curso.profesor.nullable.testingpractice.Profesor,curso.profesor.nullable,nullable.testingpractice.Curso.profesor,nullable.profesor,nullable.testingpractice.Profesor,nullable]; arguments [profesor,class testingpractice.Curso]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [Jairo Aponte]; codes [testingpractice.Curso.profesor.typeMismatch.error,testingpractice.Curso.profesor.typeMismatch,curso.profesor.typeMismatch.error,curso.profesor.typeMismatch,typeMismatch.testingpractice.Curso.profesor,typeMismatch.profesor,typeMismatch.testingpractice.Profesor,typeMismatch]; arguments [profesor]; default message [Could not find matching constructor for: testingpractice.Profesor(java.lang.String)]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.CursoControllerSpec.Prueba de numero de iteraciones(CursoControllerSpec.groovy:13)
+2015-10-19 23:56:56,531 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [null]; codes [testingpractice.Curso.profesor.nullable.error.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.error.profesor,testingpractice.Curso.profesor.nullable.error.testingpractice.Profesor,testingpractice.Curso.profesor.nullable.error,curso.profesor.nullable.error.testingpractice.Curso.profesor,curso.profesor.nullable.error.profesor,curso.profesor.nullable.error.testingpractice.Profesor,curso.profesor.nullable.error,testingpractice.Curso.profesor.nullable.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.profesor,testingpractice.Curso.profesor.nullable.testingpractice.Profesor,testingpractice.Curso.profesor.nullable,curso.profesor.nullable.testingpractice.Curso.profesor,curso.profesor.nullable.profesor,curso.profesor.nullable.testingpractice.Profesor,curso.profesor.nullable,nullable.testingpractice.Curso.profesor,nullable.profesor,nullable.testingpractice.Profesor,nullable]; arguments [profesor,class testingpractice.Curso]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [Jairo Aponte]; codes [testingpractice.Curso.profesor.typeMismatch.error,testingpractice.Curso.profesor.typeMismatch,curso.profesor.typeMismatch.error,curso.profesor.typeMismatch,typeMismatch.testingpractice.Curso.profesor,typeMismatch.profesor,typeMismatch.testingpractice.Profesor,typeMismatch]; arguments [profesor]; default message [Could not find matching constructor for: testingpractice.Profesor(java.lang.String)]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.CursoControllerSpec.Prueba de numero de iteraciones(CursoControllerSpec.groovy:13)
+2015-10-19 23:56:56,533 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [null]; codes [testingpractice.Curso.profesor.nullable.error.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.error.profesor,testingpractice.Curso.profesor.nullable.error.testingpractice.Profesor,testingpractice.Curso.profesor.nullable.error,curso.profesor.nullable.error.testingpractice.Curso.profesor,curso.profesor.nullable.error.profesor,curso.profesor.nullable.error.testingpractice.Profesor,curso.profesor.nullable.error,testingpractice.Curso.profesor.nullable.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.profesor,testingpractice.Curso.profesor.nullable.testingpractice.Profesor,testingpractice.Curso.profesor.nullable,curso.profesor.nullable.testingpractice.Curso.profesor,curso.profesor.nullable.profesor,curso.profesor.nullable.testingpractice.Profesor,curso.profesor.nullable,nullable.testingpractice.Curso.profesor,nullable.profesor,nullable.testingpractice.Profesor,nullable]; arguments [profesor,class testingpractice.Curso]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [Jairo Aponte]; codes [testingpractice.Curso.profesor.typeMismatch.error,testingpractice.Curso.profesor.typeMismatch,curso.profesor.typeMismatch.error,curso.profesor.typeMismatch,typeMismatch.testingpractice.Curso.profesor,typeMismatch.profesor,typeMismatch.testingpractice.Profesor,typeMismatch]; arguments [profesor]; default message [Could not find matching constructor for: testingpractice.Profesor(java.lang.String)]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.CursoControllerSpec.Prueba de numero de iteraciones(CursoControllerSpec.groovy:13)
+2015-10-19 23:57:07,491 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Profesor' on field 'oficina': rejected value [103]; codes [testingpractice.Profesor.oficina.max.error.testingpractice.Profesor.oficina,testingpractice.Profesor.oficina.max.error.oficina,testingpractice.Profesor.oficina.max.error.int,testingpractice.Profesor.oficina.max.error,profesor.oficina.max.error.testingpractice.Profesor.oficina,profesor.oficina.max.error.oficina,profesor.oficina.max.error.int,profesor.oficina.max.error,testingpractice.Profesor.oficina.max.exceeded.testingpractice.Profesor.oficina,testingpractice.Profesor.oficina.max.exceeded.oficina,testingpractice.Profesor.oficina.max.exceeded.int,testingpractice.Profesor.oficina.max.exceeded,profesor.oficina.max.exceeded.testingpractice.Profesor.oficina,profesor.oficina.max.exceeded.oficina,profesor.oficina.max.exceeded.int,profesor.oficina.max.exceeded,max.exceeded.testingpractice.Profesor.oficina,max.exceeded.oficina,max.exceeded.int,max.exceeded]; arguments [oficina,class testingpractice.Profesor,103,50]; default message [Property [{0}] of class [{1}] with value [{2}] exceeds maximum value [{3}]]
+
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrConstructorNewInstance(ReflectiveInterceptor.java:1002)
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at groovy.lang.Closure.call(Closure.java:423)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.ProfesorControllerSpec.Prueba de numero de iteraciones(ProfesorControllerSpec.groovy:17)
+2015-10-19 23:57:07,493 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Profesor' on field 'oficina': rejected value [103]; codes [testingpractice.Profesor.oficina.max.error.testingpractice.Profesor.oficina,testingpractice.Profesor.oficina.max.error.oficina,testingpractice.Profesor.oficina.max.error.int,testingpractice.Profesor.oficina.max.error,profesor.oficina.max.error.testingpractice.Profesor.oficina,profesor.oficina.max.error.oficina,profesor.oficina.max.error.int,profesor.oficina.max.error,testingpractice.Profesor.oficina.max.exceeded.testingpractice.Profesor.oficina,testingpractice.Profesor.oficina.max.exceeded.oficina,testingpractice.Profesor.oficina.max.exceeded.int,testingpractice.Profesor.oficina.max.exceeded,profesor.oficina.max.exceeded.testingpractice.Profesor.oficina,profesor.oficina.max.exceeded.oficina,profesor.oficina.max.exceeded.int,profesor.oficina.max.exceeded,max.exceeded.testingpractice.Profesor.oficina,max.exceeded.oficina,max.exceeded.int,max.exceeded]; arguments [oficina,class testingpractice.Profesor,103,50]; default message [Property [{0}] of class [{1}] with value [{2}] exceeds maximum value [{3}]]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.ProfesorControllerSpec.Prueba de numero de iteraciones(ProfesorControllerSpec.groovy:17)
+2015-10-19 23:57:07,512 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Profesor' on field 'oficina': rejected value [103]; codes [testingpractice.Profesor.oficina.max.error.testingpractice.Profesor.oficina,testingpractice.Profesor.oficina.max.error.oficina,testingpractice.Profesor.oficina.max.error.int,testingpractice.Profesor.oficina.max.error,profesor.oficina.max.error.testingpractice.Profesor.oficina,profesor.oficina.max.error.oficina,profesor.oficina.max.error.int,profesor.oficina.max.error,testingpractice.Profesor.oficina.max.exceeded.testingpractice.Profesor.oficina,testingpractice.Profesor.oficina.max.exceeded.oficina,testingpractice.Profesor.oficina.max.exceeded.int,testingpractice.Profesor.oficina.max.exceeded,profesor.oficina.max.exceeded.testingpractice.Profesor.oficina,profesor.oficina.max.exceeded.oficina,profesor.oficina.max.exceeded.int,profesor.oficina.max.exceeded,max.exceeded.testingpractice.Profesor.oficina,max.exceeded.oficina,max.exceeded.int,max.exceeded]; arguments [oficina,class testingpractice.Profesor,103,50]; default message [Property [{0}] of class [{1}] with value [{2}] exceeds maximum value [{3}]]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.ProfesorControllerSpec.Prueba de numero de iteraciones(ProfesorControllerSpec.groovy:17)
+2015-10-19 23:57:07,513 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Profesor' on field 'oficina': rejected value [103]; codes [testingpractice.Profesor.oficina.max.error.testingpractice.Profesor.oficina,testingpractice.Profesor.oficina.max.error.oficina,testingpractice.Profesor.oficina.max.error.int,testingpractice.Profesor.oficina.max.error,profesor.oficina.max.error.testingpractice.Profesor.oficina,profesor.oficina.max.error.oficina,profesor.oficina.max.error.int,profesor.oficina.max.error,testingpractice.Profesor.oficina.max.exceeded.testingpractice.Profesor.oficina,testingpractice.Profesor.oficina.max.exceeded.oficina,testingpractice.Profesor.oficina.max.exceeded.int,testingpractice.Profesor.oficina.max.exceeded,profesor.oficina.max.exceeded.testingpractice.Profesor.oficina,profesor.oficina.max.exceeded.oficina,profesor.oficina.max.exceeded.int,profesor.oficina.max.exceeded,max.exceeded.testingpractice.Profesor.oficina,max.exceeded.oficina,max.exceeded.int,max.exceeded]; arguments [oficina,class testingpractice.Profesor,103,50]; default message [Property [{0}] of class [{1}] with value [{2}] exceeds maximum value [{3}]]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.ProfesorControllerSpec.Prueba de numero de iteraciones(ProfesorControllerSpec.groovy:17)
+2015-10-19 23:57:07,522 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Profesor' on field 'oficina': rejected value [103]; codes [testingpractice.Profesor.oficina.max.error.testingpractice.Profesor.oficina,testingpractice.Profesor.oficina.max.error.oficina,testingpractice.Profesor.oficina.max.error.int,testingpractice.Profesor.oficina.max.error,profesor.oficina.max.error.testingpractice.Profesor.oficina,profesor.oficina.max.error.oficina,profesor.oficina.max.error.int,profesor.oficina.max.error,testingpractice.Profesor.oficina.max.exceeded.testingpractice.Profesor.oficina,testingpractice.Profesor.oficina.max.exceeded.oficina,testingpractice.Profesor.oficina.max.exceeded.int,testingpractice.Profesor.oficina.max.exceeded,profesor.oficina.max.exceeded.testingpractice.Profesor.oficina,profesor.oficina.max.exceeded.oficina,profesor.oficina.max.exceeded.int,profesor.oficina.max.exceeded,max.exceeded.testingpractice.Profesor.oficina,max.exceeded.oficina,max.exceeded.int,max.exceeded]; arguments [oficina,class testingpractice.Profesor,103,50]; default message [Property [{0}] of class [{1}] with value [{2}] exceeds maximum value [{3}]]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.ProfesorControllerSpec.Prueba de numero de iteraciones(ProfesorControllerSpec.groovy:17)
+2015-10-19 23:57:07,523 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Profesor' on field 'oficina': rejected value [103]; codes [testingpractice.Profesor.oficina.max.error.testingpractice.Profesor.oficina,testingpractice.Profesor.oficina.max.error.oficina,testingpractice.Profesor.oficina.max.error.int,testingpractice.Profesor.oficina.max.error,profesor.oficina.max.error.testingpractice.Profesor.oficina,profesor.oficina.max.error.oficina,profesor.oficina.max.error.int,profesor.oficina.max.error,testingpractice.Profesor.oficina.max.exceeded.testingpractice.Profesor.oficina,testingpractice.Profesor.oficina.max.exceeded.oficina,testingpractice.Profesor.oficina.max.exceeded.int,testingpractice.Profesor.oficina.max.exceeded,profesor.oficina.max.exceeded.testingpractice.Profesor.oficina,profesor.oficina.max.exceeded.oficina,profesor.oficina.max.exceeded.int,profesor.oficina.max.exceeded,max.exceeded.testingpractice.Profesor.oficina,max.exceeded.oficina,max.exceeded.int,max.exceeded]; arguments [oficina,class testingpractice.Profesor,103,50]; default message [Property [{0}] of class [{1}] with value [{2}] exceeds maximum value [{3}]]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.ProfesorControllerSpec.Prueba de numero de iteraciones(ProfesorControllerSpec.groovy:17)

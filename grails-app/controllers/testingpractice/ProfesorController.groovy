@@ -20,8 +20,9 @@ class ProfesorController {
 
 
     def numeroDeInstancias() {
-        println Curso.getAll().size()
-        return Curso.getAll().size()
+        // Se corrige porque estaba Curso en vez de Profesor
+        println Profesor.getAll().size()
+        return Profesor.getAll().size()
     }
 
     def create() {

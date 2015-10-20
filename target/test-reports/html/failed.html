@@ -15,10 +15,12 @@
      - Failed tests</h1>
 <p class="intro">
                         Executed
-                        14
+                        19
                         tests
                     
-                        without a single error or failure!
+                        with
+                        2 errors
+                        .
                     </p>
 </div>
 <div class="grid_2 omega">
@@ -41,6 +43,114 @@
 </nav>
 </div>
 <div class="clear"></div>
+<div class="testsuite error">
+<div class="header">
+<h2>CursoControllerSpec</h2>
+<h3>
+                        A single test executed
+                    
+                        with
+                        one error
+                        .
+                    </h3>
+</div>
+<div class="testcase clearfix error grid_8 alpha omega" data-name="Prueba de numero de iteraciones">
+<div class="grid_3 alpha">
+<p>
+<span class="icon error"></span><b class="testname message error">Prueba de numero de iteraciones</b>
+</p>
+<p class="summary">Executed in 44.258 seconds.</p>
+</div>
+<div class="grid_5 omega outputinfo">
+<div class="details">
+<p>
+<b class="message">Validation error occurred during call to save():
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [null]; codes [testingpractice.Curso.profesor.nullable.error.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.error.profesor,testingpractice.Curso.profesor.nullable.error.testingpractice.Profesor,testingpractice.Curso.profesor.nullable.error,curso.profesor.nullable.error.testingpractice.Curso.profesor,curso.profesor.nullable.error.profesor,curso.profesor.nullable.error.testingpractice.Profesor,curso.profesor.nullable.error,testingpractice.Curso.profesor.nullable.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.profesor,testingpractice.Curso.profesor.nullable.testingpractice.Profesor,testingpractice.Curso.profesor.nullable,curso.profesor.nullable.testingpractice.Curso.profesor,curso.profesor.nullable.profesor,curso.profesor.nullable.testingpractice.Profesor,curso.profesor.nullable,nullable.testingpractice.Curso.profesor,nullable.profesor,nullable.testingpractice.Profesor,nullable]; arguments [profesor,class testingpractice.Curso]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [Jairo Aponte]; codes [testingpractice.Curso.profesor.typeMismatch.error,testingpractice.Curso.profesor.typeMismatch,curso.profesor.typeMismatch.error,curso.profesor.typeMismatch,typeMismatch.testingpractice.Curso.profesor,typeMismatch.profesor,typeMismatch.testingpractice.Profesor,typeMismatch]; arguments [profesor]; default message [Could not find matching constructor for: testingpractice.Profesor(java.lang.String)]
+</b>
+</p>
+<pre>grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [null]; codes [testingpractice.Curso.profesor.nullable.error.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.error.profesor,testingpractice.Curso.profesor.nullable.error.testingpractice.Profesor,testingpractice.Curso.profesor.nullable.error,curso.profesor.nullable.error.testingpractice.Curso.profesor,curso.profesor.nullable.error.profesor,curso.profesor.nullable.error.testingpractice.Profesor,curso.profesor.nullable.error,testingpractice.Curso.profesor.nullable.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.profesor,testingpractice.Curso.profesor.nullable.testingpractice.Profesor,testingpractice.Curso.profesor.nullable,curso.profesor.nullable.testingpractice.Curso.profesor,curso.profesor.nullable.profesor,curso.profesor.nullable.testingpractice.Profesor,curso.profesor.nullable,nullable.testingpractice.Curso.profesor,nullable.profesor,nullable.testingpractice.Profesor,nullable]; arguments [profesor,class testingpractice.Curso]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object 'testingpractice.Curso' on field 'profesor': rejected value [Jairo Aponte]; codes [testingpractice.Curso.profesor.typeMismatch.error,testingpractice.Curso.profesor.typeMismatch,curso.profesor.typeMismatch.error,curso.profesor.typeMismatch,typeMismatch.testingpractice.Curso.profesor,typeMismatch.profesor,typeMismatch.testingpractice.Profesor,typeMismatch]; arguments [profesor]; default message [Could not find matching constructor for: testingpractice.Profesor(java.lang.String)]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.CursoControllerSpec.Prueba de numero de iteraciones(CursoControllerSpec.groovy:13)
+</pre>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clearfix output footer">
+<div class="sysout">
+<h2>Standard output</h2>
+<pre class="stdout">--Output from Prueba de numero de iteraciones--
+</pre>
+</div>
+<div class="syserr">
+<h2>System error</h2>
+<pre class="syserr">--Output from Prueba de numero de iteraciones--
+</pre>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="testsuite error">
+<div class="header">
+<h2>ProfesorControllerSpec</h2>
+<h3>
+                        A single test executed
+                    
+                        with
+                        one error
+                        .
+                    </h3>
+</div>
+<div class="testcase clearfix error grid_8 alpha omega" data-name="Prueba de numero de iteraciones">
+<div class="grid_3 alpha">
+<p>
+<span class="icon error"></span><b class="testname message error">Prueba de numero de iteraciones</b>
+</p>
+<p class="summary">Executed in 1.811 seconds.</p>
+</div>
+<div class="grid_5 omega outputinfo">
+<div class="details">
+<p>
+<b class="message">Validation error occurred during call to save():
+- Field error in object 'testingpractice.Profesor' on field 'oficina': rejected value [103]; codes [testingpractice.Profesor.oficina.max.error.testingpractice.Profesor.oficina,testingpractice.Profesor.oficina.max.error.oficina,testingpractice.Profesor.oficina.max.error.int,testingpractice.Profesor.oficina.max.error,profesor.oficina.max.error.testingpractice.Profesor.oficina,profesor.oficina.max.error.oficina,profesor.oficina.max.error.int,profesor.oficina.max.error,testingpractice.Profesor.oficina.max.exceeded.testingpractice.Profesor.oficina,testingpractice.Profesor.oficina.max.exceeded.oficina,testingpractice.Profesor.oficina.max.exceeded.int,testingpractice.Profesor.oficina.max.exceeded,profesor.oficina.max.exceeded.testingpractice.Profesor.oficina,profesor.oficina.max.exceeded.oficina,profesor.oficina.max.exceeded.int,profesor.oficina.max.exceeded,max.exceeded.testingpractice.Profesor.oficina,max.exceeded.oficina,max.exceeded.int,max.exceeded]; arguments [oficina,class testingpractice.Profesor,103,50]; default message [Property [{0}] of class [{1}] with value [{2}] exceeds maximum value [{3}]]
+</b>
+</p>
+<pre>grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Profesor' on field 'oficina': rejected value [103]; codes [testingpractice.Profesor.oficina.max.error.testingpractice.Profesor.oficina,testingpractice.Profesor.oficina.max.error.oficina,testingpractice.Profesor.oficina.max.error.int,testingpractice.Profesor.oficina.max.error,profesor.oficina.max.error.testingpractice.Profesor.oficina,profesor.oficina.max.error.oficina,profesor.oficina.max.error.int,profesor.oficina.max.error,testingpractice.Profesor.oficina.max.exceeded.testingpractice.Profesor.oficina,testingpractice.Profesor.oficina.max.exceeded.oficina,testingpractice.Profesor.oficina.max.exceeded.int,testingpractice.Profesor.oficina.max.exceeded,profesor.oficina.max.exceeded.testingpractice.Profesor.oficina,profesor.oficina.max.exceeded.oficina,profesor.oficina.max.exceeded.int,profesor.oficina.max.exceeded,max.exceeded.testingpractice.Profesor.oficina,max.exceeded.oficina,max.exceeded.int,max.exceeded]; arguments [oficina,class testingpractice.Profesor,103,50]; default message [Property [{0}] of class [{1}] with value [{2}] exceeds maximum value [{3}]]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.ProfesorControllerSpec.Prueba de numero de iteraciones(ProfesorControllerSpec.groovy:17)
+</pre>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clearfix output footer">
+<div class="sysout">
+<h2>Standard output</h2>
+<pre class="stdout">--Output from Prueba de numero de iteraciones--
+</pre>
+</div>
+<div class="syserr">
+<h2>System error</h2>
+<pre class="syserr">--Output from Prueba de numero de iteraciones--
+</pre>
+</div>
+</div>
+<div class="clear"></div>
+</div>
 <div class="clear"></div>
 </div>
 <!--

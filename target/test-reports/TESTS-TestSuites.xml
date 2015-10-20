@@ -1,15 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-  <testsuite errors="0" failures="0" hostname="Niki-PC" id="0" name="CursoSpec" package="testingpractice" tests="4" time="4.516" timestamp="2015-10-20T02:50:31">
+  <testsuite errors="1" failures="0" hostname="Carlos" id="0" name="CursoControllerSpec" package="testingpractice" tests="1" time="44.638" timestamp="2015-10-20T04:56:13">
       <properties />
 
-      <testcase classname="testingpractice.CursoSpec" name="test codigo" time="3.426" />
+      <testcase classname="testingpractice.CursoControllerSpec" name="Prueba de numero de iteraciones" time="44.258">
+          <error message="Validation error occurred during call to save():&#xa;- Field error in object &apos;testingpractice.Curso&apos; on field &apos;profesor&apos;: rejected value [null]; codes [testingpractice.Curso.profesor.nullable.error.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.error.profesor,testingpractice.Curso.profesor.nullable.error.testingpractice.Profesor,testingpractice.Curso.profesor.nullable.error,curso.profesor.nullable.error.testingpractice.Curso.profesor,curso.profesor.nullable.error.profesor,curso.profesor.nullable.error.testingpractice.Profesor,curso.profesor.nullable.error,testingpractice.Curso.profesor.nullable.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.profesor,testingpractice.Curso.profesor.nullable.testingpractice.Profesor,testingpractice.Curso.profesor.nullable,curso.profesor.nullable.testingpractice.Curso.profesor,curso.profesor.nullable.profesor,curso.profesor.nullable.testingpractice.Profesor,curso.profesor.nullable,nullable.testingpractice.Curso.profesor,nullable.profesor,nullable.testingpractice.Profesor,nullable]; arguments [profesor,class testingpractice.Curso]; default message [Property [{0}] of class [{1}] cannot be null]&#xa;- Field error in object &apos;testingpractice.Curso&apos; on field &apos;profesor&apos;: rejected value [Jairo Aponte]; codes [testingpractice.Curso.profesor.typeMismatch.error,testingpractice.Curso.profesor.typeMismatch,curso.profesor.typeMismatch.error,curso.profesor.typeMismatch,typeMismatch.testingpractice.Curso.profesor,typeMismatch.profesor,typeMismatch.testingpractice.Profesor,typeMismatch]; arguments [profesor]; default message [Could not find matching constructor for: testingpractice.Profesor(java.lang.String)]&#xa;" type="grails.validation.ValidationException">grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object &apos;testingpractice.Curso&apos; on field &apos;profesor&apos;: rejected value [null]; codes [testingpractice.Curso.profesor.nullable.error.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.error.profesor,testingpractice.Curso.profesor.nullable.error.testingpractice.Profesor,testingpractice.Curso.profesor.nullable.error,curso.profesor.nullable.error.testingpractice.Curso.profesor,curso.profesor.nullable.error.profesor,curso.profesor.nullable.error.testingpractice.Profesor,curso.profesor.nullable.error,testingpractice.Curso.profesor.nullable.testingpractice.Curso.profesor,testingpractice.Curso.profesor.nullable.profesor,testingpractice.Curso.profesor.nullable.testingpractice.Profesor,testingpractice.Curso.profesor.nullable,curso.profesor.nullable.testingpractice.Curso.profesor,curso.profesor.nullable.profesor,curso.profesor.nullable.testingpractice.Profesor,curso.profesor.nullable,nullable.testingpractice.Curso.profesor,nullable.profesor,nullable.testingpractice.Profesor,nullable]; arguments [profesor,class testingpractice.Curso]; default message [Property [{0}] of class [{1}] cannot be null]
+- Field error in object &apos;testingpractice.Curso&apos; on field &apos;profesor&apos;: rejected value [Jairo Aponte]; codes [testingpractice.Curso.profesor.typeMismatch.error,testingpractice.Curso.profesor.typeMismatch,curso.profesor.typeMismatch.error,curso.profesor.typeMismatch,typeMismatch.testingpractice.Curso.profesor,typeMismatch.profesor,typeMismatch.testingpractice.Profesor,typeMismatch]; arguments [profesor]; default message [Could not find matching constructor for: testingpractice.Profesor(java.lang.String)]
 
-      <testcase classname="testingpractice.CursoSpec" name="test nombre" time="0.968" />
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.CursoControllerSpec.Prueba de numero de iteraciones(CursoControllerSpec.groovy:13)
+</error>
 
-      <testcase classname="testingpractice.CursoSpec" name="test creditos" time="0.033" />
+      </testcase>
 
-      <testcase classname="testingpractice.CursoSpec" name="test descripcion" time="0.017" />
+      <system-out><![CDATA[--Output from Prueba de numero de iteraciones--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Prueba de numero de iteraciones--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Carlos" id="1" name="CursoSpec" package="testingpractice" tests="4" time="2.638" timestamp="2015-10-20T04:56:58">
+      <properties />
+
+      <testcase classname="testingpractice.CursoSpec" name="test codigo" time="1.817" />
+
+      <testcase classname="testingpractice.CursoSpec" name="test nombre" time="0.366" />
+
+      <testcase classname="testingpractice.CursoSpec" name="test creditos" time="0.186" />
+
+      <testcase classname="testingpractice.CursoSpec" name="test descripcion" time="0.176" />
 
       <system-out><![CDATA[--Output from test codigo--
 --Output from test nombre--
@@ -24,28 +49,69 @@
 ]]></system-err>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="Niki-PC" id="1" name="EstudianteSpec" package="testingpractice" tests="2" time="0.364" timestamp="2015-10-20T02:50:35">
+  <testsuite errors="0" failures="0" hostname="Carlos" id="2" name="EstudianteControllerSpec" package="testingpractice" tests="1" time="2.461" timestamp="2015-10-20T04:57:00">
       <properties />
 
-      <testcase classname="testingpractice.EstudianteSpec" name="test semestre" time="0.302" />
+      <testcase classname="testingpractice.EstudianteControllerSpec" name="Prueba de numero de iteraciones" time="2.359" />
 
-      <testcase classname="testingpractice.EstudianteSpec" name="test codigo institucional" time="0.049" />
+      <system-out><![CDATA[--Output from Prueba de numero de iteraciones--
+2
+]]></system-out>
 
-      <system-out><![CDATA[--Output from test semestre--
+      <system-err><![CDATA[--Output from Prueba de numero de iteraciones--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Carlos" id="3" name="EstudianteSpec" package="testingpractice" tests="3" time="2.165" timestamp="2015-10-20T04:57:03">
+      <properties />
+
+      <testcase classname="testingpractice.EstudianteSpec" name="test lista" time="0.775" />
+
+      <testcase classname="testingpractice.EstudianteSpec" name="test semestre" time="0.617" />
+
+      <testcase classname="testingpractice.EstudianteSpec" name="test codigo institucional" time="0.684" />
+
+      <system-out><![CDATA[--Output from test lista--
+--Output from test semestre--
 --Output from test codigo institucional--
 ]]></system-out>
 
-      <system-err><![CDATA[--Output from test semestre--
+      <system-err><![CDATA[--Output from test lista--
+--Output from test semestre--
 --Output from test codigo institucional--
 ]]></system-err>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="Niki-PC" id="2" name="ProfesorSpec" package="testingpractice" tests="2" time="0.21" timestamp="2015-10-20T02:50:36">
+  <testsuite errors="1" failures="0" hostname="Carlos" id="4" name="ProfesorControllerSpec" package="testingpractice" tests="1" time="1.907" timestamp="2015-10-20T04:57:05">
       <properties />
 
-      <testcase classname="testingpractice.ProfesorSpec" name="test oficina" time="0.167" />
+      <testcase classname="testingpractice.ProfesorControllerSpec" name="Prueba de numero de iteraciones" time="1.811">
+          <error message="Validation error occurred during call to save():&#xa;- Field error in object &apos;testingpractice.Profesor&apos; on field &apos;oficina&apos;: rejected value [103]; codes [testingpractice.Profesor.oficina.max.error.testingpractice.Profesor.oficina,testingpractice.Profesor.oficina.max.error.oficina,testingpractice.Profesor.oficina.max.error.int,testingpractice.Profesor.oficina.max.error,profesor.oficina.max.error.testingpractice.Profesor.oficina,profesor.oficina.max.error.oficina,profesor.oficina.max.error.int,profesor.oficina.max.error,testingpractice.Profesor.oficina.max.exceeded.testingpractice.Profesor.oficina,testingpractice.Profesor.oficina.max.exceeded.oficina,testingpractice.Profesor.oficina.max.exceeded.int,testingpractice.Profesor.oficina.max.exceeded,profesor.oficina.max.exceeded.testingpractice.Profesor.oficina,profesor.oficina.max.exceeded.oficina,profesor.oficina.max.exceeded.int,profesor.oficina.max.exceeded,max.exceeded.testingpractice.Profesor.oficina,max.exceeded.oficina,max.exceeded.int,max.exceeded]; arguments [oficina,class testingpractice.Profesor,103,50]; default message [Property [{0}] of class [{1}] with value [{2}] exceeds maximum value [{3}]]&#xa;" type="grails.validation.ValidationException">grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object &apos;testingpractice.Profesor&apos; on field &apos;oficina&apos;: rejected value [103]; codes [testingpractice.Profesor.oficina.max.error.testingpractice.Profesor.oficina,testingpractice.Profesor.oficina.max.error.oficina,testingpractice.Profesor.oficina.max.error.int,testingpractice.Profesor.oficina.max.error,profesor.oficina.max.error.testingpractice.Profesor.oficina,profesor.oficina.max.error.oficina,profesor.oficina.max.error.int,profesor.oficina.max.error,testingpractice.Profesor.oficina.max.exceeded.testingpractice.Profesor.oficina,testingpractice.Profesor.oficina.max.exceeded.oficina,testingpractice.Profesor.oficina.max.exceeded.int,testingpractice.Profesor.oficina.max.exceeded,profesor.oficina.max.exceeded.testingpractice.Profesor.oficina,profesor.oficina.max.exceeded.oficina,profesor.oficina.max.exceeded.int,profesor.oficina.max.exceeded,max.exceeded.testingpractice.Profesor.oficina,max.exceeded.oficina,max.exceeded.int,max.exceeded]; arguments [oficina,class testingpractice.Profesor,103,50]; default message [Property [{0}] of class [{1}] with value [{2}] exceeds maximum value [{3}]]
 
-      <testcase classname="testingpractice.ProfesorSpec" name="test lista" time="0.033" />
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.ProfesorControllerSpec.Prueba de numero de iteraciones(ProfesorControllerSpec.groovy:17)
+</error>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from Prueba de numero de iteraciones--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Prueba de numero de iteraciones--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Carlos" id="5" name="ProfesorSpec" package="testingpractice" tests="2" time="1.215" timestamp="2015-10-20T04:57:07">
+      <properties />
+
+      <testcase classname="testingpractice.ProfesorSpec" name="test oficina" time="0.973" />
+
+      <testcase classname="testingpractice.ProfesorSpec" name="test lista" time="0.173" />
 
       <system-out><![CDATA[--Output from test oficina--
 --Output from test lista--
@@ -56,20 +122,33 @@
 ]]></system-err>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="Niki-PC" id="3" name="UsuarioSpec" package="testingpractice" tests="6" time="0.518" timestamp="2015-10-20T02:50:36">
+  <testsuite errors="0" failures="0" hostname="Carlos" id="6" name="UsuarioControllerSpec" package="testingpractice" tests="1" time="1.345" timestamp="2015-10-20T04:57:09">
       <properties />
 
-      <testcase classname="testingpractice.UsuarioSpec" name="Prueba de nombre" time="0.183" />
+      <testcase classname="testingpractice.UsuarioControllerSpec" name="Prueba de numero de iteraciones" time="1.205" />
 
-      <testcase classname="testingpractice.UsuarioSpec" name="Prueba apellido" time="0.12" />
+      <system-out><![CDATA[--Output from Prueba de numero de iteraciones--
+3
+]]></system-out>
 
-      <testcase classname="testingpractice.UsuarioSpec" name="Prueba de edad" time="0.037" />
+      <system-err><![CDATA[--Output from Prueba de numero de iteraciones--
+]]></system-err>
 
-      <testcase classname="testingpractice.UsuarioSpec" name="Prueba genero" time="0.06" />
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Carlos" id="7" name="UsuarioSpec" package="testingpractice" tests="6" time="3.68" timestamp="2015-10-20T04:57:10">
+      <properties />
 
-      <testcase classname="testingpractice.UsuarioSpec" name="Prueba cedula" time="0.027" />
+      <testcase classname="testingpractice.UsuarioSpec" name="Prueba de nombre" time="1.313" />
 
-      <testcase classname="testingpractice.UsuarioSpec" name="test cedula unica" time="0.084" />
+      <testcase classname="testingpractice.UsuarioSpec" name="Prueba apellido" time="0.677" />
+
+      <testcase classname="testingpractice.UsuarioSpec" name="Prueba de edad" time="0.252" />
+
+      <testcase classname="testingpractice.UsuarioSpec" name="Prueba genero" time="0.403" />
+
+      <testcase classname="testingpractice.UsuarioSpec" name="Prueba cedula" time="0.136" />
+
+      <testcase classname="testingpractice.UsuarioSpec" name="test cedula unica" time="0.82" />
 
       <system-out><![CDATA[--Output from Prueba de nombre--
 --Output from Prueba apellido--

@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="Niki-PC" name="testingpractice.EstudianteSpec" tests="2" time="0.364" timestamp="2015-10-20T02:50:35">
+<testsuite errors="0" failures="0" hostname="Carlos" name="testingpractice.EstudianteSpec" tests="3" time="2.165" timestamp="2015-10-20T04:57:03">
   <properties />
-  <testcase classname="testingpractice.EstudianteSpec" name="test semestre" time="0.302" />
-  <testcase classname="testingpractice.EstudianteSpec" name="test codigo institucional" time="0.049" />
-  <system-out><![CDATA[--Output from test semestre--
+  <testcase classname="testingpractice.EstudianteSpec" name="test lista" time="0.775" />
+  <testcase classname="testingpractice.EstudianteSpec" name="test semestre" time="0.617" />
+  <testcase classname="testingpractice.EstudianteSpec" name="test codigo institucional" time="0.684" />
+  <system-out><![CDATA[--Output from test lista--
+--Output from test semestre--
 --Output from test codigo institucional--
 ]]></system-out>
-  <system-err><![CDATA[--Output from test semestre--
+  <system-err><![CDATA[--Output from test lista--
+--Output from test semestre--
 --Output from test codigo institucional--
 ]]></system-err>
 </testsuite>

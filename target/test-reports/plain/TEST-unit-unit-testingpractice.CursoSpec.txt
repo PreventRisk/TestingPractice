@@ -1,5 +1,5 @@
 Testsuite: testingpractice.CursoSpec
-Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 4,516 sec
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 2,638 sec
 ------------- Standard Output ---------------
 --Output from test codigo--
 --Output from test nombre--
@@ -13,7 +13,7 @@ Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 4,516 sec
 --Output from test descripcion--
 ------------- ---------------- ---------------
 
-Testcase: test codigo took 3,426 sec
-Testcase: test nombre took 0,968 sec
-Testcase: test creditos took 0,033 sec
-Testcase: test descripcion took 0,017 sec
+Testcase: test codigo took 1,817 sec
+Testcase: test nombre took 0,366 sec
+Testcase: test creditos took 0,186 sec
+Testcase: test descripcion took 0,176 sec
