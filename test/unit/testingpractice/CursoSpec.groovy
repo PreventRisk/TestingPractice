@@ -15,7 +15,22 @@ class CursoSpec extends Specification {
     def cleanup() {
     }
 
-    void "test something"() {
+    void "test codigo"() {
+        when:
+        def curso1 = new Curso()
+        curso1.codigo = codigo1
+        def curso2 = Mock(Curso)
+        curso2.codigo = codigo2
+        boolean rta = rta1
+
+        then:
+        (codigo1 != codigo2) == rta1
+
+        where:
+        codigo1 | codigo2 | rta1
+        1 | 2 | true
+        1 | 1 | false
+
     }
 
     def "test nombre"(){
