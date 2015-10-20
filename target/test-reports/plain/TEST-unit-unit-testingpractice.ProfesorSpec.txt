@@ -1,5 +1,5 @@
 Testsuite: testingpractice.ProfesorSpec
-Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0,29 sec
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0,21 sec
 ------------- Standard Output ---------------
 --Output from test oficina--
 --Output from test lista--
@@ -9,5 +9,5 @@ Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0,29 sec
 --Output from test lista--
 ------------- ---------------- ---------------
 
-Testcase: test oficina took 0,255 sec
-Testcase: test lista took 0,024 sec
+Testcase: test oficina took 0,167 sec
+Testcase: test lista took 0,033 sec

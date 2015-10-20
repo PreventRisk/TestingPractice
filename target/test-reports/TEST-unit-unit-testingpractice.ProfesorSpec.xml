@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="Niki-PC" name="testingpractice.ProfesorSpec" tests="2" time="0.29" timestamp="2015-10-20T02:36:02">
+<testsuite errors="0" failures="0" hostname="Niki-PC" name="testingpractice.ProfesorSpec" tests="2" time="0.21" timestamp="2015-10-20T02:50:36">
   <properties />
-  <testcase classname="testingpractice.ProfesorSpec" name="test oficina" time="0.255" />
-  <testcase classname="testingpractice.ProfesorSpec" name="test lista" time="0.024" />
+  <testcase classname="testingpractice.ProfesorSpec" name="test oficina" time="0.167" />
+  <testcase classname="testingpractice.ProfesorSpec" name="test lista" time="0.033" />
   <system-out><![CDATA[--Output from test oficina--
 --Output from test lista--
 ]]></system-out>

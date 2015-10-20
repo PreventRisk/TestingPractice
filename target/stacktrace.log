@@ -226,3 +226,201 @@ groovy.lang.MissingPropertyException: No such property: cel1 for class: testingp
 2015-10-19 21:32:57,965 [main] ERROR StackTrace  - Full Stack Trace:
 groovy.lang.MissingPropertyException: No such property: cel1 for class: testingpractice.UsuarioSpec
 	at testingpractice.UsuarioSpec.test cedula unica(UsuarioSpec.groovy:112)
+2015-10-19 21:45:06,055 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test descripcion(CursoSpec.groovy:80)
+2015-10-19 21:45:06,061 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test descripcion(CursoSpec.groovy:80)
+2015-10-19 21:45:06,063 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test descripcion(CursoSpec.groovy:80)
+2015-10-19 21:45:06,064 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test descripcion(CursoSpec.groovy:80)
+2015-10-19 21:45:06,072 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test descripcion(CursoSpec.groovy:80)
+2015-10-19 21:45:06,072 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test descripcion(CursoSpec.groovy:80)
+2015-10-19 21:47:40,077 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test descripcion(CursoSpec.groovy:80)
+2015-10-19 21:47:40,081 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test descripcion(CursoSpec.groovy:80)
+2015-10-19 21:47:40,083 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test descripcion(CursoSpec.groovy:80)
+2015-10-19 21:47:40,083 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test descripcion(CursoSpec.groovy:80)
+2015-10-19 21:47:40,091 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test descripcion(CursoSpec.groovy:80)
+2015-10-19 21:47:40,092 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test descripcion(CursoSpec.groovy:80)
+2015-10-19 21:48:41,370 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test descripcion(CursoSpec.groovy:80)
+2015-10-19 21:48:41,375 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test descripcion(CursoSpec.groovy:80)
+2015-10-19 21:48:41,377 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test descripcion(CursoSpec.groovy:80)
+2015-10-19 21:48:41,378 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test descripcion(CursoSpec.groovy:80)
+2015-10-19 21:48:41,387 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test descripcion(CursoSpec.groovy:80)
+2015-10-19 21:48:41,387 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+curso.hasErrors() == !valido
+|     |           |  ||
+|     true        |  |true
+|                 |  false
+|                 false
+testingpractice.Curso : (unsaved)
+
+	at testingpractice.CursoSpec.test descripcion(CursoSpec.groovy:80)

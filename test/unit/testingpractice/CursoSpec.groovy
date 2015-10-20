@@ -69,4 +69,20 @@ class CursoSpec extends Specification {
         //1 | true
         6 | false // mas de 5 creditos
     }
+
+    def "test descripcion"(){
+        when:
+        def curso = new Curso()
+        curso.descripcion = descripcion
+        curso.validate()
+
+        then:
+        curso.hasErrors() == !valido
+
+        where:
+        descripcion | valido
+        //'a'*10 | true
+        'a'*9 | false // Menos de 10 no permitido
+    }
+
 }

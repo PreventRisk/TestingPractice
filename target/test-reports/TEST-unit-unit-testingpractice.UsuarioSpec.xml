@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="Niki-PC" name="testingpractice.UsuarioSpec" tests="6" time="0.514" timestamp="2015-10-20T02:36:03">
+<testsuite errors="0" failures="0" hostname="Niki-PC" name="testingpractice.UsuarioSpec" tests="6" time="0.518" timestamp="2015-10-20T02:50:36">
   <properties />
-  <testcase classname="testingpractice.UsuarioSpec" name="Prueba de nombre" time="0.191" />
-  <testcase classname="testingpractice.UsuarioSpec" name="Prueba apellido" time="0.117" />
-  <testcase classname="testingpractice.UsuarioSpec" name="Prueba de edad" time="0.043" />
-  <testcase classname="testingpractice.UsuarioSpec" name="Prueba genero" time="0.069" />
-  <testcase classname="testingpractice.UsuarioSpec" name="Prueba cedula" time="0.035" />
-  <testcase classname="testingpractice.UsuarioSpec" name="test cedula unica" time="0.052" />
+  <testcase classname="testingpractice.UsuarioSpec" name="Prueba de nombre" time="0.183" />
+  <testcase classname="testingpractice.UsuarioSpec" name="Prueba apellido" time="0.12" />
+  <testcase classname="testingpractice.UsuarioSpec" name="Prueba de edad" time="0.037" />
+  <testcase classname="testingpractice.UsuarioSpec" name="Prueba genero" time="0.06" />
+  <testcase classname="testingpractice.UsuarioSpec" name="Prueba cedula" time="0.027" />
+  <testcase classname="testingpractice.UsuarioSpec" name="test cedula unica" time="0.084" />
   <system-out><![CDATA[--Output from Prueba de nombre--
 --Output from Prueba apellido--
 --Output from Prueba de edad--
