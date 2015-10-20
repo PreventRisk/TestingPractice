@@ -15,7 +15,18 @@ class EstudianteSpec extends Specification {
     def cleanup() {
     }
 
-    void "test something"() {
+    void "test lista"() {
+        when:
+        def student = new Estudiante()
+        student.cursos = cursos
+        student.validate()
+
+        then:
+        student.hasErrors() == !valid
+
+        where:
+        cursos | valid
+        null | false
     }
 
     def "test semestre"(){
