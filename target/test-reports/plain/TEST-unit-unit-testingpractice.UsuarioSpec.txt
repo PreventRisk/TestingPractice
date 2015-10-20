@@ -1,5 +1,5 @@
 Testsuite: testingpractice.UsuarioSpec
-Tests run: 6, Failures: 0, Errors: 0, Time elapsed: 3,68 sec
+Tests run: 6, Failures: 0, Errors: 0, Time elapsed: 3,049 sec
 ------------- Standard Output ---------------
 --Output from Prueba de nombre--
 --Output from Prueba apellido--
@@ -17,9 +17,9 @@ Tests run: 6, Failures: 0, Errors: 0, Time elapsed: 3,68 sec
 --Output from test cedula unica--
 ------------- ---------------- ---------------
 
-Testcase: Prueba de nombre took 1,314 sec
-Testcase: Prueba apellido took 0,677 sec
-Testcase: Prueba de edad took 0,252 sec
-Testcase: Prueba genero took 0,403 sec
-Testcase: Prueba cedula took 0,136 sec
-Testcase: test cedula unica took 0,821 sec
+Testcase: Prueba de nombre took 1,468 sec
+Testcase: Prueba apellido took 0,59 sec
+Testcase: Prueba de edad took 0,174 sec
+Testcase: Prueba genero took 0,385 sec
+Testcase: Prueba cedula took 0,142 sec
+Testcase: test cedula unica took 0,25 sec

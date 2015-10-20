@@ -1,59 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8644ef84-8f11-4c1b-b131-71234ca4b4e4" name="Default" comment="Se realizan test unitarios para los campos nombre, edad y genero de Usuario. Los pruebas que fueron comentadas indican que no fueron exitosas y que se debe revisar la clase Usuario, para confirmar que las restricciones son correctas.">
-      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\html\testingpractice\0_CursoSpec.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\html\testingpractice\1_EstudianteSpec.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\html\testingpractice\2_ProfesorSpec.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\html\testingpractice\3_UsuarioSpec.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/asset/pipeline/grails/AssetMethodTagLib.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/asset/pipeline/grails/AssetMethodTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/CacheTagLib.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/CacheTagLib.class" />
+    <list default="true" id="8644ef84-8f11-4c1b-b131-71234ca4b4e4" name="Default" comment="">
+      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\TEST-unit-unit-testingpractice.CursoSpec.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\TEST-unit-unit-testingpractice.EstudianteSpec.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\TEST-unit-unit-testingpractice.ProfesorSpec.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\TEST-unit-unit-testingpractice.UsuarioSpec.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\html\all.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\html\failed.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\html\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\html\stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\plain\TEST-unit-unit-testingpractice.CursoSpec-err.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\plain\TEST-unit-unit-testingpractice.CursoSpec-out.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\plain\TEST-unit-unit-testingpractice.CursoSpec.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\plain\TEST-unit-unit-testingpractice.EstudianteSpec-err.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\plain\TEST-unit-unit-testingpractice.EstudianteSpec-out.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\plain\TEST-unit-unit-testingpractice.EstudianteSpec.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\plain\TEST-unit-unit-testingpractice.ProfesorSpec-err.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\plain\TEST-unit-unit-testingpractice.ProfesorSpec-out.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\plain\TEST-unit-unit-testingpractice.ProfesorSpec.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\plain\TEST-unit-unit-testingpractice.UsuarioSpec-err.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\plain\TEST-unit-unit-testingpractice.UsuarioSpec-out.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\Carlos\IDE\TestingPractice\target\test-reports\plain\TEST-unit-unit-testingpractice.UsuarioSpec.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/unit/testingpractice/CursoControllerSpec.class" afterPath="$PROJECT_DIR$/target/test-classes/unit/testingpractice/CursoControllerSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/unit/testingpractice/CursoSpec.class" afterPath="$PROJECT_DIR$/target/test-classes/unit/testingpractice/CursoSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/DbdocController.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/DbdocController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/unit/testingpractice/EstudianteControllerSpec.class" afterPath="$PROJECT_DIR$/target/test-classes/unit/testingpractice/EstudianteControllerSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/unit/testingpractice/EstudianteSpec.class" afterPath="$PROJECT_DIR$/target/test-classes/unit/testingpractice/EstudianteSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GrailsChange.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GrailsChange.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryResourceTagLib.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/JQueryResourceTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryTagLib.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/JQueryTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$__tt__delete_closure12$_closure19.class" afterPath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$__tt__delete_closure12$_closure19.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$__tt__delete_closure12$_closure20.class" afterPath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$__tt__delete_closure12$_closure20.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$__tt__delete_closure12.class" afterPath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$__tt__delete_closure12.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$__tt__save_closure10$_closure15.class" afterPath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$__tt__save_closure10$_closure15.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$__tt__save_closure10$_closure16.class" afterPath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$__tt__save_closure10$_closure16.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$__tt__save_closure10.class" afterPath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$__tt__save_closure10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$__tt__update_closure11$_closure17.class" afterPath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$__tt__update_closure11$_closure17.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$__tt__update_closure11$_closure18.class" afterPath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$__tt__update_closure11$_closure18.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$__tt__update_closure11.class" afterPath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$__tt__update_closure11.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$_notFound_closure9$_closure13.class" afterPath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$_notFound_closure9$_closure13.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$_notFound_closure9$_closure14.class" afterPath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$_notFound_closure9$_closure14.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$_notFound_closure9.class" afterPath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController$_notFound_closure9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController.class" afterPath="$PROJECT_DIR$/target/classes/testingpractice/ProfesorController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/unit/testingpractice/ProfesorControllerSpec.class" afterPath="$PROJECT_DIR$/target/test-classes/unit/testingpractice/ProfesorControllerSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/unit/testingpractice/ProfesorSpec.class" afterPath="$PROJECT_DIR$/target/test-classes/unit/testingpractice/ProfesorSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/unit/testingpractice/UsuarioControllerSpec.class" afterPath="$PROJECT_DIR$/target/test-classes/unit/testingpractice/UsuarioControllerSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/unit/testingpractice/UsuarioSpec.class" afterPath="$PROJECT_DIR$/target/test-classes/unit/testingpractice/UsuarioSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/testingpractice/CursoControllerSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/testingpractice/CursoControllerSpec.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/testingpractice/EstudianteControllerSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/testingpractice/EstudianteControllerSpec.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/testingpractice/ProfesorController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/testingpractice/ProfesorController.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/testingpractice/ProfesorControllerSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/testingpractice/ProfesorControllerSpec.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/plain/TEST-unit-unit-testingpractice.CursoSpec.txt" afterPath="$PROJECT_DIR$/target/test-reports/plain/TEST-unit-unit-testingpractice.CursoSpec.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/TEST-unit-unit-testingpractice.CursoSpec.xml" afterPath="$PROJECT_DIR$/target/test-reports/TEST-unit-unit-testingpractice.CursoSpec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/plain/TEST-unit-unit-testingpractice.EstudianteSpec-err.txt" afterPath="$PROJECT_DIR$/target/test-reports/plain/TEST-unit-unit-testingpractice.EstudianteSpec-err.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/plain/TEST-unit-unit-testingpractice.EstudianteSpec-out.txt" afterPath="$PROJECT_DIR$/target/test-reports/plain/TEST-unit-unit-testingpractice.EstudianteSpec-out.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/plain/TEST-unit-unit-testingpractice.EstudianteSpec.txt" afterPath="$PROJECT_DIR$/target/test-reports/plain/TEST-unit-unit-testingpractice.EstudianteSpec.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/TEST-unit-unit-testingpractice.EstudianteSpec.xml" afterPath="$PROJECT_DIR$/target/test-reports/TEST-unit-unit-testingpractice.EstudianteSpec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/plain/TEST-unit-unit-testingpractice.ProfesorSpec.txt" afterPath="$PROJECT_DIR$/target/test-reports/plain/TEST-unit-unit-testingpractice.ProfesorSpec.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/TEST-unit-unit-testingpractice.ProfesorSpec.xml" afterPath="$PROJECT_DIR$/target/test-reports/TEST-unit-unit-testingpractice.ProfesorSpec.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/plain/TEST-unit-unit-testingpractice.UsuarioSpec.txt" afterPath="$PROJECT_DIR$/target/test-reports/plain/TEST-unit-unit-testingpractice.UsuarioSpec.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/TEST-unit-unit-testingpractice.UsuarioSpec.xml" afterPath="$PROJECT_DIR$/target/test-reports/TEST-unit-unit-testingpractice.UsuarioSpec.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/TESTS-TestSuites.xml" afterPath="$PROJECT_DIR$/target/test-reports/TESTS-TestSuites.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestingPractice.iml" afterPath="$PROJECT_DIR$/TestingPractice.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/testingpractice/UsuarioControllerSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/testingpractice/UsuarioControllerSpec.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/html/all.html" afterPath="$PROJECT_DIR$/target/test-reports/html/all.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/html/failed.html" afterPath="$PROJECT_DIR$/target/test-reports/html/failed.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/html/index.html" afterPath="$PROJECT_DIR$/target/test-reports/html/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -92,8 +64,8 @@
       <file leaf-file-name="ProfesorControllerSpec.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/unit/testingpractice/ProfesorControllerSpec.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37325907">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.33147633">
+              <caret line="14" column="108" selection-start-line="14" selection-start-column="108" selection-end-line="14" selection-end-column="108" />
               <folding />
             </state>
           </provider>
@@ -578,37 +550,37 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36434108" sideWeight="0.1068814" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36434108" sideWeight="0.8931186" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964234" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22254759" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.49707174" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32868218" sideWeight="0.49707174" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.275969" sideWeight="0.4897511" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32902583" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36434108" sideWeight="0.8931186" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964234" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22254759" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.49707174" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32868218" sideWeight="0.49707174" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3258786" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -630,7 +602,8 @@
     <MESSAGE value="Se evidencia que el esta mal definida la restriccion de nombre, edad y genero (falla con M ). Se cambiará la clase Usuario para que cumplan con las restricciones." />
     <MESSAGE value="Se cambian las restricciones en Usuario a excepcion de cedula, cuya prueba aun no ha sido realizada." />
     <MESSAGE value="Se realizan test unitarios para los campos nombre, edad y genero de Usuario. Los pruebas que fueron comentadas indican que no fueron exitosas y que se debe revisar la clase Usuario, para confirmar que las restricciones son correctas." />
-    <option name="LAST_COMMIT_MESSAGE" value="Se realizan test unitarios para los campos nombre, edad y genero de Usuario. Los pruebas que fueron comentadas indican que no fueron exitosas y que se debe revisar la clase Usuario, para confirmar que las restricciones son correctas." />
+    <MESSAGE value="Se hacen los testController" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se hacen los testController" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1057,8 +1030,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/unit/testingpractice/ProfesorControllerSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37325907">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.33147633">
+          <caret line="14" column="108" selection-start-line="14" selection-start-column="108" selection-end-line="14" selection-end-column="108" />
           <folding />
         </state>
       </provider>

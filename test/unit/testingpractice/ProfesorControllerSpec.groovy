@@ -12,7 +12,7 @@ class ProfesorControllerSpec extends Specification {
         when:
         def profesor = new Profesor(nombre:"Gabriel", apellido: "Mañana", edad: 60, genero: "M", cedula: 1823534323,
                 oficina: 10)
-        def profesor2 = new Profesor(nombre:"Gabriel", apellido: "Mañana", edad: 60, genero: "M", cedula: 1823534323,
+        def profesor2 = new Profesor(nombre:"Gabriel", apellido: "Mañana", edad: 60, genero: "M", cedula: 1923534323,
                 oficina: 13)
         profesor.save(flush:true, failOnError:true)
         profesor2.save(flush:true, failOnError:true)

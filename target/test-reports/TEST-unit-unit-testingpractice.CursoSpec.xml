@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="Carlos" name="testingpractice.CursoSpec" tests="4" time="2.638" timestamp="2015-10-20T04:56:58">
+<testsuite errors="0" failures="0" hostname="Carlos" name="testingpractice.CursoSpec" tests="4" time="3.376" timestamp="2015-10-20T05:09:25">
   <properties />
-  <testcase classname="testingpractice.CursoSpec" name="test codigo" time="1.817" />
-  <testcase classname="testingpractice.CursoSpec" name="test nombre" time="0.366" />
-  <testcase classname="testingpractice.CursoSpec" name="test creditos" time="0.186" />
-  <testcase classname="testingpractice.CursoSpec" name="test descripcion" time="0.176" />
+  <testcase classname="testingpractice.CursoSpec" name="test codigo" time="2.103" />
+  <testcase classname="testingpractice.CursoSpec" name="test nombre" time="0.754" />
+  <testcase classname="testingpractice.CursoSpec" name="test creditos" time="0.386" />
+  <testcase classname="testingpractice.CursoSpec" name="test descripcion" time="0.07" />
   <system-out><![CDATA[--Output from test codigo--
 --Output from test nombre--
 --Output from test creditos--

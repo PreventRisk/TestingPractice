@@ -1036,3 +1036,66 @@ grails.validation.ValidationException: Validation error occurred during call to 
 	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
 	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
 	at testingpractice.ProfesorControllerSpec.Prueba de numero de iteraciones(ProfesorControllerSpec.groovy:17)
+2015-10-20 00:05:09,531 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Profesor' on field 'cedula': rejected value [1823534323]; codes [testingpractice.Profesor.cedula.unique.error.testingpractice.Profesor.cedula,testingpractice.Profesor.cedula.unique.error.cedula,testingpractice.Profesor.cedula.unique.error.long,testingpractice.Profesor.cedula.unique.error,profesor.cedula.unique.error.testingpractice.Profesor.cedula,profesor.cedula.unique.error.cedula,profesor.cedula.unique.error.long,profesor.cedula.unique.error,testingpractice.Profesor.cedula.unique.testingpractice.Profesor.cedula,testingpractice.Profesor.cedula.unique.cedula,testingpractice.Profesor.cedula.unique.long,testingpractice.Profesor.cedula.unique,profesor.cedula.unique.testingpractice.Profesor.cedula,profesor.cedula.unique.cedula,profesor.cedula.unique.long,profesor.cedula.unique,unique.testingpractice.Profesor.cedula,unique.cedula,unique.long,unique]; arguments [cedula,class testingpractice.Profesor,1823534323]; default message [null]
+
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrConstructorNewInstance(ReflectiveInterceptor.java:1002)
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at groovy.lang.Closure.call(Closure.java:423)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.ProfesorControllerSpec.Prueba de numero de iteraciones(ProfesorControllerSpec.groovy:18)
+2015-10-20 00:05:09,562 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Profesor' on field 'cedula': rejected value [1823534323]; codes [testingpractice.Profesor.cedula.unique.error.testingpractice.Profesor.cedula,testingpractice.Profesor.cedula.unique.error.cedula,testingpractice.Profesor.cedula.unique.error.long,testingpractice.Profesor.cedula.unique.error,profesor.cedula.unique.error.testingpractice.Profesor.cedula,profesor.cedula.unique.error.cedula,profesor.cedula.unique.error.long,profesor.cedula.unique.error,testingpractice.Profesor.cedula.unique.testingpractice.Profesor.cedula,testingpractice.Profesor.cedula.unique.cedula,testingpractice.Profesor.cedula.unique.long,testingpractice.Profesor.cedula.unique,profesor.cedula.unique.testingpractice.Profesor.cedula,profesor.cedula.unique.cedula,profesor.cedula.unique.long,profesor.cedula.unique,unique.testingpractice.Profesor.cedula,unique.cedula,unique.long,unique]; arguments [cedula,class testingpractice.Profesor,1823534323]; default message [null]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.ProfesorControllerSpec.Prueba de numero de iteraciones(ProfesorControllerSpec.groovy:18)
+2015-10-20 00:05:09,575 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Profesor' on field 'cedula': rejected value [1823534323]; codes [testingpractice.Profesor.cedula.unique.error.testingpractice.Profesor.cedula,testingpractice.Profesor.cedula.unique.error.cedula,testingpractice.Profesor.cedula.unique.error.long,testingpractice.Profesor.cedula.unique.error,profesor.cedula.unique.error.testingpractice.Profesor.cedula,profesor.cedula.unique.error.cedula,profesor.cedula.unique.error.long,profesor.cedula.unique.error,testingpractice.Profesor.cedula.unique.testingpractice.Profesor.cedula,testingpractice.Profesor.cedula.unique.cedula,testingpractice.Profesor.cedula.unique.long,testingpractice.Profesor.cedula.unique,profesor.cedula.unique.testingpractice.Profesor.cedula,profesor.cedula.unique.cedula,profesor.cedula.unique.long,profesor.cedula.unique,unique.testingpractice.Profesor.cedula,unique.cedula,unique.long,unique]; arguments [cedula,class testingpractice.Profesor,1823534323]; default message [null]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.ProfesorControllerSpec.Prueba de numero de iteraciones(ProfesorControllerSpec.groovy:18)
+2015-10-20 00:05:09,576 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Profesor' on field 'cedula': rejected value [1823534323]; codes [testingpractice.Profesor.cedula.unique.error.testingpractice.Profesor.cedula,testingpractice.Profesor.cedula.unique.error.cedula,testingpractice.Profesor.cedula.unique.error.long,testingpractice.Profesor.cedula.unique.error,profesor.cedula.unique.error.testingpractice.Profesor.cedula,profesor.cedula.unique.error.cedula,profesor.cedula.unique.error.long,profesor.cedula.unique.error,testingpractice.Profesor.cedula.unique.testingpractice.Profesor.cedula,testingpractice.Profesor.cedula.unique.cedula,testingpractice.Profesor.cedula.unique.long,testingpractice.Profesor.cedula.unique,profesor.cedula.unique.testingpractice.Profesor.cedula,profesor.cedula.unique.cedula,profesor.cedula.unique.long,profesor.cedula.unique,unique.testingpractice.Profesor.cedula,unique.cedula,unique.long,unique]; arguments [cedula,class testingpractice.Profesor,1823534323]; default message [null]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.ProfesorControllerSpec.Prueba de numero de iteraciones(ProfesorControllerSpec.groovy:18)
+2015-10-20 00:05:09,603 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Profesor' on field 'cedula': rejected value [1823534323]; codes [testingpractice.Profesor.cedula.unique.error.testingpractice.Profesor.cedula,testingpractice.Profesor.cedula.unique.error.cedula,testingpractice.Profesor.cedula.unique.error.long,testingpractice.Profesor.cedula.unique.error,profesor.cedula.unique.error.testingpractice.Profesor.cedula,profesor.cedula.unique.error.cedula,profesor.cedula.unique.error.long,profesor.cedula.unique.error,testingpractice.Profesor.cedula.unique.testingpractice.Profesor.cedula,testingpractice.Profesor.cedula.unique.cedula,testingpractice.Profesor.cedula.unique.long,testingpractice.Profesor.cedula.unique,profesor.cedula.unique.testingpractice.Profesor.cedula,profesor.cedula.unique.cedula,profesor.cedula.unique.long,profesor.cedula.unique,unique.testingpractice.Profesor.cedula,unique.cedula,unique.long,unique]; arguments [cedula,class testingpractice.Profesor,1823534323]; default message [null]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.ProfesorControllerSpec.Prueba de numero de iteraciones(ProfesorControllerSpec.groovy:18)
+2015-10-20 00:05:09,604 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation error occurred during call to save():
+- Field error in object 'testingpractice.Profesor' on field 'cedula': rejected value [1823534323]; codes [testingpractice.Profesor.cedula.unique.error.testingpractice.Profesor.cedula,testingpractice.Profesor.cedula.unique.error.cedula,testingpractice.Profesor.cedula.unique.error.long,testingpractice.Profesor.cedula.unique.error,profesor.cedula.unique.error.testingpractice.Profesor.cedula,profesor.cedula.unique.error.cedula,profesor.cedula.unique.error.long,profesor.cedula.unique.error,testingpractice.Profesor.cedula.unique.testingpractice.Profesor.cedula,testingpractice.Profesor.cedula.unique.cedula,testingpractice.Profesor.cedula.unique.long,testingpractice.Profesor.cedula.unique,profesor.cedula.unique.testingpractice.Profesor.cedula,profesor.cedula.unique.cedula,profesor.cedula.unique.long,profesor.cedula.unique,unique.testingpractice.Profesor.cedula,unique.cedula,unique.long,unique]; arguments [cedula,class testingpractice.Profesor,1823534323]; default message [null]
+
+	at org.grails.datastore.gorm.GormInstanceApi.doSave(GormInstanceApi.groovy:182)
+	at org.grails.datastore.gorm.GormInstanceApi.save_closure5(GormInstanceApi.groovy:162)
+	at org.grails.datastore.mapping.core.DatastoreUtils.execute(DatastoreUtils.java:302)
+	at org.grails.datastore.gorm.AbstractDatastoreApi.execute(AbstractDatastoreApi.groovy:37)
+	at org.grails.datastore.gorm.GormInstanceApi.save(GormInstanceApi.groovy:161)
+	at testingpractice.ProfesorControllerSpec.Prueba de numero de iteraciones(ProfesorControllerSpec.groovy:18)
