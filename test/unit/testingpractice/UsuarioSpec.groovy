@@ -105,4 +105,22 @@ class UsuarioSpec extends Specification {
         0 | false
         234567123 | true
     }
+
+    void "test cedula unica"() {
+        when:
+        def user1 = new Usuario()
+        user1.cedula = cel1
+        def user2 = Mock(Usuario)
+        user2.cedula = cel2
+        boolean rta = rta1
+
+        then:
+        (cel1 != cel2) == rta1
+
+        where:
+        cel1 | cel2 | rta1
+        1 | 2 | true
+        1 | 1 | false
+
+    }
 }

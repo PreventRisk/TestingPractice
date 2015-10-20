@@ -1,5 +1,5 @@
 Testsuite: testingpractice.EstudianteSpec
-Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 1,825 sec
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0,356 sec
 ------------- Standard Output ---------------
 --Output from test semestre--
 --Output from test codigo institucional--
@@ -9,5 +9,5 @@ Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 1,825 sec
 --Output from test codigo institucional--
 ------------- ---------------- ---------------
 
-Testcase: test semestre took 1,639 sec
-Testcase: test codigo institucional took 0,147 sec
+Testcase: test semestre took 0,299 sec
+Testcase: test codigo institucional took 0,045 sec

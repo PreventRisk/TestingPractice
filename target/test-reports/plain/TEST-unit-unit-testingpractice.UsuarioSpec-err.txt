@@ -3,3 +3,4 @@
 --Output from Prueba de edad--
 --Output from Prueba genero--
 --Output from Prueba cedula--
+--Output from test cedula unica--

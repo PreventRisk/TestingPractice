@@ -130,3 +130,99 @@ curso.hasErrors() == !valido
 testingpractice.Curso : (unsaved)
 
 	at testingpractice.CursoSpec.test nombre(CursoSpec.groovy:27)
+2015-10-19 21:28:01,435 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+profe.hasErrors() == !valid
+|     |           |  ||
+|     true        |  |true
+null null         |  false
+                  false
+
+	at testingpractice.ProfesorSpec.test lista(ProfesorSpec.groovy:43)
+2015-10-19 21:28:01,450 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+profe.hasErrors() == !valid
+|     |           |  ||
+|     true        |  |true
+null null         |  false
+                  false
+
+	at testingpractice.ProfesorSpec.test lista(ProfesorSpec.groovy:43)
+2015-10-19 21:28:01,452 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+profe.hasErrors() == !valid
+|     |           |  ||
+|     true        |  |true
+null null         |  false
+                  false
+
+	at testingpractice.ProfesorSpec.test lista(ProfesorSpec.groovy:43)
+2015-10-19 21:28:01,453 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+profe.hasErrors() == !valid
+|     |           |  ||
+|     true        |  |true
+null null         |  false
+                  false
+
+	at testingpractice.ProfesorSpec.test lista(ProfesorSpec.groovy:43)
+2015-10-19 21:28:01,489 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+profe.hasErrors() == !valid
+|     |           |  ||
+|     true        |  |true
+null null         |  false
+                  false
+
+	at testingpractice.ProfesorSpec.test lista(ProfesorSpec.groovy:43)
+2015-10-19 21:28:01,489 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+profe.hasErrors() == !valid
+|     |           |  ||
+|     true        |  |true
+null null         |  false
+                  false
+
+	at testingpractice.ProfesorSpec.test lista(ProfesorSpec.groovy:43)
+2015-10-19 21:32:57,929 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: cel1 for class: testingpractice.UsuarioSpec
+	at testingpractice.UsuarioSpec.test cedula unica(UsuarioSpec.groovy:112)
+2015-10-19 21:32:57,939 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: cel1 for class: testingpractice.UsuarioSpec
+	at testingpractice.UsuarioSpec.test cedula unica(UsuarioSpec.groovy:112)
+2015-10-19 21:32:57,941 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: cel1 for class: testingpractice.UsuarioSpec
+	at testingpractice.UsuarioSpec.test cedula unica(UsuarioSpec.groovy:112)
+2015-10-19 21:32:57,942 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: cel1 for class: testingpractice.UsuarioSpec
+	at testingpractice.UsuarioSpec.test cedula unica(UsuarioSpec.groovy:112)
+2015-10-19 21:32:57,950 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: cel1 for class: testingpractice.UsuarioSpec
+	at testingpractice.UsuarioSpec.test cedula unica(UsuarioSpec.groovy:112)
+2015-10-19 21:32:57,951 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: cel1 for class: testingpractice.UsuarioSpec
+	at testingpractice.UsuarioSpec.test cedula unica(UsuarioSpec.groovy:112)
+2015-10-19 21:32:57,962 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: cel1 for class: testingpractice.UsuarioSpec
+	at testingpractice.UsuarioSpec.test cedula unica(UsuarioSpec.groovy:112)
+2015-10-19 21:32:57,963 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: cel1 for class: testingpractice.UsuarioSpec
+	at testingpractice.UsuarioSpec.test cedula unica(UsuarioSpec.groovy:112)
+2015-10-19 21:32:57,964 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: cel1 for class: testingpractice.UsuarioSpec
+	at testingpractice.UsuarioSpec.test cedula unica(UsuarioSpec.groovy:112)
+2015-10-19 21:32:57,964 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: cel1 for class: testingpractice.UsuarioSpec
+	at testingpractice.UsuarioSpec.test cedula unica(UsuarioSpec.groovy:112)
+2015-10-19 21:32:57,965 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: cel1 for class: testingpractice.UsuarioSpec
+	at testingpractice.UsuarioSpec.test cedula unica(UsuarioSpec.groovy:112)
+2015-10-19 21:32:57,965 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: cel1 for class: testingpractice.UsuarioSpec
+	at testingpractice.UsuarioSpec.test cedula unica(UsuarioSpec.groovy:112)

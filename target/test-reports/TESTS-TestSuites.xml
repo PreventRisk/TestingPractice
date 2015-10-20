@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-  <testsuite errors="0" failures="0" hostname="DESKTOP-R17KCH0" id="0" name="CursoSpec" package="testingpractice" tests="2" time="24.915" timestamp="2015-10-19T14:53:20">
+  <testsuite errors="0" failures="0" hostname="Niki-PC" id="0" name="CursoSpec" package="testingpractice" tests="2" time="4.249" timestamp="2015-10-20T02:35:58">
       <properties />
 
-      <testcase classname="testingpractice.CursoSpec" name="test nombre" time="24.203" />
+      <testcase classname="testingpractice.CursoSpec" name="test nombre" time="4.136" />
 
-      <testcase classname="testingpractice.CursoSpec" name="test creditos" time="0.269" />
+      <testcase classname="testingpractice.CursoSpec" name="test creditos" time="0.037" />
 
       <system-out><![CDATA[--Output from test nombre--
 --Output from test creditos--
@@ -16,12 +16,12 @@
 ]]></system-err>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="DESKTOP-R17KCH0" id="1" name="EstudianteSpec" package="testingpractice" tests="2" time="1.825" timestamp="2015-10-19T14:53:46">
+  <testsuite errors="0" failures="0" hostname="Niki-PC" id="1" name="EstudianteSpec" package="testingpractice" tests="2" time="0.356" timestamp="2015-10-20T02:36:02">
       <properties />
 
-      <testcase classname="testingpractice.EstudianteSpec" name="test semestre" time="1.639" />
+      <testcase classname="testingpractice.EstudianteSpec" name="test semestre" time="0.299" />
 
-      <testcase classname="testingpractice.EstudianteSpec" name="test codigo institucional" time="0.147" />
+      <testcase classname="testingpractice.EstudianteSpec" name="test codigo institucional" time="0.045" />
 
       <system-out><![CDATA[--Output from test semestre--
 --Output from test codigo institucional--
@@ -32,24 +32,43 @@
 ]]></system-err>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="DESKTOP-R17KCH0" id="2" name="UsuarioSpec" package="testingpractice" tests="5" time="1.873" timestamp="2015-10-19T14:53:48">
+  <testsuite errors="0" failures="0" hostname="Niki-PC" id="2" name="ProfesorSpec" package="testingpractice" tests="2" time="0.29" timestamp="2015-10-20T02:36:02">
       <properties />
 
-      <testcase classname="testingpractice.UsuarioSpec" name="Prueba de nombre" time="1.021" />
+      <testcase classname="testingpractice.ProfesorSpec" name="test oficina" time="0.255" />
 
-      <testcase classname="testingpractice.UsuarioSpec" name="Prueba apellido" time="0.458" />
+      <testcase classname="testingpractice.ProfesorSpec" name="test lista" time="0.024" />
 
-      <testcase classname="testingpractice.UsuarioSpec" name="Prueba de edad" time="0.158" />
+      <system-out><![CDATA[--Output from test oficina--
+--Output from test lista--
+]]></system-out>
 
-      <testcase classname="testingpractice.UsuarioSpec" name="Prueba genero" time="0.125" />
+      <system-err><![CDATA[--Output from test oficina--
+--Output from test lista--
+]]></system-err>
 
-      <testcase classname="testingpractice.UsuarioSpec" name="Prueba cedula" time="0.074" />
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Niki-PC" id="3" name="UsuarioSpec" package="testingpractice" tests="6" time="0.514" timestamp="2015-10-20T02:36:03">
+      <properties />
+
+      <testcase classname="testingpractice.UsuarioSpec" name="Prueba de nombre" time="0.191" />
+
+      <testcase classname="testingpractice.UsuarioSpec" name="Prueba apellido" time="0.117" />
+
+      <testcase classname="testingpractice.UsuarioSpec" name="Prueba de edad" time="0.043" />
+
+      <testcase classname="testingpractice.UsuarioSpec" name="Prueba genero" time="0.069" />
+
+      <testcase classname="testingpractice.UsuarioSpec" name="Prueba cedula" time="0.035" />
+
+      <testcase classname="testingpractice.UsuarioSpec" name="test cedula unica" time="0.052" />
 
       <system-out><![CDATA[--Output from Prueba de nombre--
 --Output from Prueba apellido--
 --Output from Prueba de edad--
 --Output from Prueba genero--
 --Output from Prueba cedula--
+--Output from test cedula unica--
 ]]></system-out>
 
       <system-err><![CDATA[--Output from Prueba de nombre--
@@ -57,6 +76,7 @@
 --Output from Prueba de edad--
 --Output from Prueba genero--
 --Output from Prueba cedula--
+--Output from test cedula unica--
 ]]></system-err>
 
   </testsuite>
